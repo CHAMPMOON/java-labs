@@ -1,26 +1,33 @@
 package Model.AnimalsPack;
 
-public class AnimalsFactory extends Animals
+public class AnimalsFactory
 {
-    public TypeAnimals type;
-
-    AnimalsFactory(String name, double weight, int year, TypeAnimals type) 
+    public Animals createAnimals(String name, double weight, int year, TypeAnimals type)
     {
-        super(name, weight, year);
+        Animals animal = null;
+        
         switch (type)
         {
             case COLDBLOOD:
-                this.type = TypeAnimals.COLDBLOOD;
+                animal = new ColdAnimals(name, weight, year, type);
                 break;
+
             case AQUATIC:
-                this.type = TypeAnimals.AQUATIC;
+                animal = new AquaAnimals(name, weight, year, type);
                 break;
+
             case FEATHERED:
-                this.type = TypeAnimals.FEATHERED;
+                animal = new FeatAnimals(name, weight, year, type);
                 break;
+
             case UNGULATES:
-                this.type = TypeAnimals.UNGULATES;
+                animal = new UnguAnimals(name, weight, year, type);
                 break;
         }
+        
+        return animal;
     }
+
 }
+
+
