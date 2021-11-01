@@ -20,6 +20,16 @@ public abstract class Aviary
 
     public void addAnimal(Animals animal)
     {
-        livingAnimals.add(animal);
+        this.livingAnimals.add(animal);
+    }
+
+    public ArrayList<Animals> getAnimals()
+    {
+        return this.livingAnimals;
+    }
+
+    public String toString()
+    {
+        return this.getClass().getSimpleName() + ":";
     }
 }

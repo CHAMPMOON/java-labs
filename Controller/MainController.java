@@ -2,6 +2,7 @@ package Controller;
 
 import Model.AnimalsPack.*;
 import Model.AviaryPack.*;
+import java.util.ArrayList;
 
 public class MainController 
 {
@@ -37,5 +38,16 @@ public class MainController
                 aviary.addAnimal(animal);
                 return;
             }
+    }
+
+    public static void seeAnimals(Aviary aviary)
+    {
+        ArrayList<Animals> listAnimal = aviary.getAnimals();
+
+        System.out.println(aviary.toString());
+        for (int i = 0; i < listAnimal.size(); i++)
+        {
+            System.out.println(listAnimal.get(i).toString());
+        }
     }
 }

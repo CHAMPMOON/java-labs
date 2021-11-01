@@ -19,4 +19,9 @@ public abstract class Animals
     {
         return this.type;
     }
+
+    public String toString()
+    {
+        return this.name + " " + this.weight + " " + this.year;
+    }
 }
