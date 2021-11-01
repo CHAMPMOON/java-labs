@@ -6,17 +6,10 @@ public abstract class Animals
     protected double weight;
     protected int year;
 
-    Animals(String name, double weight, int year)
+    protected Animals(String name, double weight, int year)
     {   
         this.name = name;
         this.weight = weight;
         this.year = year;
     }
-    
-    // public String toString()
-    // {
-    //     return name + " - " + weight + " - " + year;
-    // }
-
-    // public abstract void Move(Aviary avr); 
 }
