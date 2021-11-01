@@ -1,13 +1,14 @@
 package Model.AviaryPack;
 
 import java.util.ArrayList;
-import AnimalsPackage.Animals;
+import Model.AnimalsPack.Animals;
 
 public abstract class Aviary 
 {
-    protected ArrayList<Animals> livingAnimals = new ArrayList<>();
+    protected ArrayList<Animals> livingAnimals;
 
-    // public abstract void SeeAnimals();
-
-    // public abstract TypeAviary GetType();
+    protected Aviary()
+    {
+        this.livingAnimals = new ArrayList<>();
+    }
 }
