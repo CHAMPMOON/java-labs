@@ -1,26 +1,30 @@
 package Model.AviaryPack;
 
-public class AviaryFactory extends Aviary
+public class AviaryFactory
 {
-    public TypeAviary type;
-
-    AviaryFactory(TypeAviary type)
+    public Aviary CreateAviary(TypeAviary type)
     {
-        super();
+        Aviary aviary = null;
+        
         switch (type)
         {
             case WARM:
-                this.type = TypeAviary.WARM;
+                aviary = new WarmAviary(type);
                 break;
+
             case WATER:
-                this.type = TypeAviary.WATER;
+                aviary = new WaterAviary(type);
                 break;
+
             case NETTY:
-                this.type = TypeAviary.NETTY;
+                aviary = new NettyAviary(type);
                 break;
+
             case OPEN:
-                this.type = TypeAviary.OPEN;
+                aviary = new OpenAviary(type);
                 break;
         }
+
+        return aviary;
     }
 }

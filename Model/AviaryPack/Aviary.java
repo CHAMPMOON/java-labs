@@ -5,10 +5,21 @@ import Model.AnimalsPack.Animals;
 
 public abstract class Aviary 
 {
-    protected ArrayList<Animals> livingAnimals;
+    protected ArrayList<Animals> livingAnimals = new ArrayList<>();
+    TypeAviary type;
 
-    protected Aviary()
+    protected Aviary(TypeAviary type)
     {
-        this.livingAnimals = new ArrayList<>();
+        this.type = type;
+    }
+
+    public TypeAviary getType()
+    {
+        return this.type;
+    }
+
+    public void addAnimal(Animals animal)
+    {
+        livingAnimals.add(animal);
     }
 }
