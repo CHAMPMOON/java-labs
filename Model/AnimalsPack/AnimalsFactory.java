@@ -2,26 +2,26 @@ package Model.AnimalsPack;
 
 public class AnimalsFactory
 {
-    public Animals createAnimals(String name, double weight, int year, TypeAnimals type)
+    public static Animals createAnimalsFactory(String name, double weight, int year, int type)
     {
         Animals animal = null;
         
         switch (type)
         {
-            case COLDBLOOD:
-                animal = new ColdAnimals(name, weight, year, type);
+            case 1:
+                animal = new AquaAnimals(name, weight, year, TypeAnimals.AQUATIC);
                 break;
 
-            case AQUATIC:
-                animal = new AquaAnimals(name, weight, year, type);
+            case 2:
+                animal = new ColdAnimals(name, weight, year, TypeAnimals.COLDBLOOD);
                 break;
 
-            case FEATHERED:
-                animal = new FeatAnimals(name, weight, year, type);
+            case 3:
+                animal = new FeatAnimals(name, weight, year, TypeAnimals.FEATHERED);
                 break;
 
-            case UNGULATES:
-                animal = new UnguAnimals(name, weight, year, type);
+            case 4:
+                animal = new UnguAnimals(name, weight, year, TypeAnimals.UNGULATES);
                 break;
         }
         
