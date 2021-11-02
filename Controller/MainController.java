@@ -50,4 +50,14 @@ public class MainController
             System.out.println(listAnimal.get(i).toString());
         }
     }
+
+    public static Animals createAnimals(String name, double weight, int year, int type)
+    {
+        return AnimalsFactory.createAnimalsFactory(name, weight, year, type);
+    }
+
+    public static Aviary createAviary(int type)
+    {
+        return AviaryFactory.CreateAviaryFactory(type);
+    }
 }
