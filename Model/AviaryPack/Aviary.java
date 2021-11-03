@@ -1,7 +1,8 @@
 package Model.AviaryPack;
 
 import java.util.ArrayList;
-import Model.AnimalsPack.Animals;
+import Model.AnimalsPack.*;
+
 
 public abstract class Aviary 
 {
@@ -20,11 +21,6 @@ public abstract class Aviary
         return this.type;
     }
 
-    public void addAnimal(Animals animal)
-    {
-        this.livingAnimals.add(animal);
-    }
-
     public ArrayList<Animals> getAnimals()
     {
         return this.livingAnimals;
@@ -32,6 +28,25 @@ public abstract class Aviary
 
     public String toString()
     {
-        return this.getClass().getSimpleName() + " " + this.name + ":";
+        return this.getClass().getSimpleName() + " " + this.name;
+    }
+
+    public void moveAnimal(Animals animal)
+    {
+        if (this.type.ordinal() == animal.getType().ordinal()) 
+        {
+            this.livingAnimals.add(animal);
+        }  
+    }
+
+    public String seeAnimals()
+    {
+        String result = "";
+        result += this.toString();
+        for (int i = 0; i < this.livingAnimals.size(); i++)
+        {
+            result += this.livingAnimals.get(i).toString();
+        }
+        return result;
     }
 }
