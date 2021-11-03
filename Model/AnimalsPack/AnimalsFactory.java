@@ -1,5 +1,7 @@
 package Model.AnimalsPack;
 
+import Model.AnimalsPack.AnimalsChildClasses.*;
+
 public class AnimalsFactory
 {
     public static Animals createAnimalsFactory(String name, double weight, int year, int type)
