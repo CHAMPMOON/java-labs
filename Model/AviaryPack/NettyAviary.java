@@ -2,8 +2,8 @@ package Model.AviaryPack;
 
 class NettyAviary extends Aviary 
 {
-    protected NettyAviary(TypeAviary type) 
+    protected NettyAviary(TypeAviary type, String name) 
     {
-        super(type);
+        super(type, name);
     }   
 }

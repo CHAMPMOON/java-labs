@@ -7,10 +7,12 @@ public abstract class Aviary
 {
     protected ArrayList<Animals> livingAnimals = new ArrayList<>();
     TypeAviary type;
+    String name;
 
-    protected Aviary(TypeAviary type)
+    protected Aviary(TypeAviary type, String name)
     {
         this.type = type;
+        this.name = name;
     }
 
     public TypeAviary getType()
@@ -30,6 +32,6 @@ public abstract class Aviary
 
     public String toString()
     {
-        return this.getClass().getSimpleName() + ":";
+        return this.getClass().getSimpleName() + " " + this.name + ":";
     }
 }

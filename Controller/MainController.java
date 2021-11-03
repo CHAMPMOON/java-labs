@@ -19,7 +19,7 @@ public class MainController
             }
 
         if ((typeAviary == TypeAviary.OPEN) && 
-            (typeAnimals == TypeAnimals.FEATHERED))
+            (typeAnimals == TypeAnimals.UNGULATES))
             {
                 aviary.addAnimal(animal);
                 return;
@@ -56,8 +56,8 @@ public class MainController
         return AnimalsFactory.createAnimalsFactory(name, weight, year, type);
     }
 
-    public static Aviary createAviary(int type)
+    public static Aviary createAviary(int type, String name)
     {
-        return AviaryFactory.CreateAviaryFactory(type);
+        return AviaryFactory.CreateAviaryFactory(type, name);
     }
 }

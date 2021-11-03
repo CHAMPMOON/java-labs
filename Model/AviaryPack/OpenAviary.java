@@ -2,8 +2,8 @@ package Model.AviaryPack;
 
 class OpenAviary extends Aviary
 {
-    protected OpenAviary(TypeAviary type) 
+    protected OpenAviary(TypeAviary type, String name) 
     {
-        super(type);
+        super(type, name);
     }   
 }

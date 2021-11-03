@@ -2,26 +2,26 @@ package Model.AviaryPack;
 
 public class AviaryFactory
 {
-    public static Aviary CreateAviaryFactory(int type)
+    public static Aviary CreateAviaryFactory(int type, String name)
     {
         Aviary aviary = null;
         
         switch (type)
         {
             case 1:
-                aviary = new NettyAviary(TypeAviary.NETTY);
+                aviary = new NettyAviary(TypeAviary.NETTY, name);
                 break;
 
             case 2:
-                aviary = new OpenAviary(TypeAviary.OPEN);
+                aviary = new OpenAviary(TypeAviary.OPEN, name);
                 break;
 
             case 3:
-                aviary = new WarmAviary(TypeAviary.WARM);
+                aviary = new WarmAviary(TypeAviary.WARM, name);
                 break;
 
             case 4:
-                aviary = new WaterAviary(TypeAviary.WATER);
+                aviary = new WaterAviary(TypeAviary.WATER, name);
                 break;
         }
 

@@ -2,8 +2,8 @@ package Model.AviaryPack;
 
 class WarmAviary extends Aviary
 {
-    protected WarmAviary(TypeAviary type) 
+    protected WarmAviary(TypeAviary type, String name) 
     {
-        super(type);
+        super(type, name);
     }   
 }
