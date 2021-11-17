@@ -5,7 +5,7 @@ import Model.AviaryPack.AviaryChildClasses.*;
 
 public class AviaryFactory
 {
-    public static Aviary CreateAviaryFactory(int type, String name)
+    public static Aviary createAviaryFactory(String name, int type)
     {
         Aviary aviary = null;
         
