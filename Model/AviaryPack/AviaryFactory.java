@@ -11,6 +11,10 @@ public class AviaryFactory
         
         switch (type)
         {
+            case 0:
+                aviary = new WaterAviary(TypeAviary.WATER, name);
+                break;
+
             case 1:
                 aviary = new NettyAviary(TypeAviary.NETTY, name);
                 break;
@@ -21,10 +25,6 @@ public class AviaryFactory
 
             case 3:
                 aviary = new WarmAviary(TypeAviary.WARM, name);
-                break;
-
-            case 4:
-                aviary = new WaterAviary(TypeAviary.WATER, name);
                 break;
         }
 

@@ -22,6 +22,6 @@ public abstract class Animals
 
     public String toString()
     {
-        return this.name + " " + this.weight + " " + this.year;
+        return this.name + " " + this.weight + " " + this.year + "\n";
     }
 }

@@ -26,9 +26,13 @@ public abstract class Aviary
         return this.livingAnimals;
     }
 
-    public String toString()
+    public String toString(boolean load)
     {
-        return this.getClass().getSimpleName() + " " + this.name;
+        if (load == true)
+        {
+            return this.name + " " + this.type.ordinal() + "\n";
+        }
+        return this.getClass().getSimpleName() + " " + this.name + "\n";
     }
 
     public void moveAnimal(Animals animal)
@@ -39,10 +43,10 @@ public abstract class Aviary
         }  
     }
 
-    public String seeAnimals()
+    public String seeAnimals(boolean load)
     {
         String result = "";
-        result += this.toString();
+        result += this.toString(load);
         for (int i = 0; i < this.livingAnimals.size(); i++)
         {
             result += this.livingAnimals.get(i).toString();
