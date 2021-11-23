@@ -20,8 +20,12 @@ public abstract class Animals
         return this.type;
     }
 
-    public String toString()
+    public String toString(boolean inAviary)
     {
-        return this.name + " " + this.weight + " " + this.year + "\n";
+        if (inAviary)
+        {
+            return this.name + " " + this.weight + " " + this.year + "\n";
+        }
+        return this.name + " " + this.weight + " " + this.year + this.type + "\n";
     }
 }

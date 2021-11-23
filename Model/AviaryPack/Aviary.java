@@ -28,14 +28,14 @@ public abstract class Aviary
 
     public String toString(boolean load)
     {
-        if (load == true)
+        if (load)
         {
             return this.name + " " + this.type.ordinal() + "\n";
         }
         return this.getClass().getSimpleName() + " " + this.name + "\n";
     }
 
-    public void moveAnimal(Animals animal)
+    public void move(Animals animal)
     {
         if (this.type.ordinal() == animal.getType().ordinal()) 
         {
@@ -43,13 +43,18 @@ public abstract class Aviary
         }  
     }
 
-    public String seeAnimals(boolean load)
+    public String writeAnimals()
     {
         String result = "";
+
+        boolean inAviary = true;
+        boolean load = true;
+
         result += this.toString(load);
+
         for (int i = 0; i < this.livingAnimals.size(); i++)
         {
-            result += this.livingAnimals.get(i).toString();
+            result += this.livingAnimals.get(i).toString(inAviary);
         }
         return result;
     }
