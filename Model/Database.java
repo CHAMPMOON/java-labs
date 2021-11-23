@@ -15,8 +15,17 @@ public class Database
     static ArrayList<Animals> listAnimalsUser = new ArrayList<Animals>();
     static boolean isLoaded = false;
 
-    public static void loadData() 
+    public static String loadData() 
     {
+        String used = "Already used";
+        String notUsed = "Successfully used";
+
+
+        if (isLoaded)
+        {
+            return used;
+        }
+
         try(FileReader reader = new FileReader("Database.txt"))
         {
             ArrayList<Aviary> listAviaryDatabase = new ArrayList<Aviary>();
@@ -47,13 +56,15 @@ public class Database
                 }
             }
             scan.close();
+
             isLoaded = true;
             Database.uniteListsAviary(listAviaryDatabase);
         }
         catch(IOException ex)
         {
-            System.out.println(ex.getMessage());
+            return ex.getMessage();
         }
+        return notUsed;
     }
 
     public static void saveData() 
@@ -142,5 +153,18 @@ public class Database
     public static void deleteAnimals(ArrayList<Animals> listAnimals, int index)
     {
         listAnimals.remove(index);
+    }
+
+    public static String seeAll()
+    {
+        String result = "";
+
+        boolean load = false;
+
+        for (int i = 0; i < listAviaryUser.size(); i++)
+        {
+            result += (i + 1) + ") " + listAviaryUser.get(i).toString(load);
+        }
+        return result;
     }
 }

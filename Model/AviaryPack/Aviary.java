@@ -58,4 +58,17 @@ public abstract class Aviary
         }
         return result;
     }
+
+    public String seeAnimals()
+    {
+        String result = "";
+        
+        boolean inAviary = true;
+
+        for (int i = 0; i < this.livingAnimals.size(); i++)
+        {
+            result += "\t" + (i + 1) + ") " + this.livingAnimals.get(i).toString(inAviary);
+        }
+        return result;
+    }
 }
