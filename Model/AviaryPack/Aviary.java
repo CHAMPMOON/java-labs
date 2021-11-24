@@ -1,10 +1,11 @@
 package Model.AviaryPack;
 
+import java.io.Serializable;
 import java.util.ArrayList;
 import Model.AnimalsPack.*;
 
 
-public abstract class Aviary 
+public abstract class Aviary implements Serializable
 {
     protected ArrayList<Animals> livingAnimals = new ArrayList<>();
     TypeAviary type;

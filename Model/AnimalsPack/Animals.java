@@ -1,6 +1,8 @@
 package Model.AnimalsPack;
 
-public abstract class Animals 
+import java.io.Serializable;
+
+public abstract class Animals implements Serializable
 {
     protected String name;
     protected double weight;
