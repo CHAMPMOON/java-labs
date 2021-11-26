@@ -1,6 +1,6 @@
-package Model.AviaryPack;
+package Model.Aviary;
 
-import Model.AviaryPack.AviaryChildClasses.*;
+import Model.Aviary.AviaryChildClasses.*;
 
 
 public class AviaryFactory

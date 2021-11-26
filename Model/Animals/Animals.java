@@ -1,4 +1,4 @@
-package Model.AnimalsPack;
+package Model.Animals;
 
 import java.io.Serializable;
 
@@ -22,12 +22,8 @@ public abstract class Animals implements Serializable
         return this.type;
     }
 
-    public String toString(boolean inAviary)
+    public String toString()
     {
-        if (inAviary)
-        {
-            return this.name + " " + this.weight + " " + this.year + "\n";
-        }
-        return this.name + " " + this.weight + " " + this.year + this.type + "\n";
+        return this.getClass().getSimpleName() + " " + this.name + " " + this.weight + " " + this.year + "\n";
     }
 }

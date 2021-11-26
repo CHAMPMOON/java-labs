@@ -1,7 +1,7 @@
-package Model.AnimalsPack.AnimalsChildClasses;
+package Model.Animals.AnimalsChildClasses;
 
-import Model.AnimalsPack.Animals;
-import Model.AnimalsPack.TypeAnimals;
+import Model.Animals.Animals;
+import Model.Animals.TypeAnimals;
 
 public class UnguAnimals extends Animals
 {

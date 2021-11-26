@@ -1,4 +1,4 @@
-package Model.AnimalsPack;
+package Model.Animals;
 
 public enum TypeAnimals 
 {

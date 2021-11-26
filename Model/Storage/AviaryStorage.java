@@ -2,17 +2,11 @@ package Model.Storage;
 
 import java.util.ArrayList;
 
-import Model.AnimalsPack.*;
-import Model.AviaryPack.*;
+import Model.Animals.*;
+import Model.Aviary.*;
 
 public class AviaryStorage extends Storage
 {
-
-    // public static void loadInDatabase()
-    // {
-    //     // ArrayList<Aviary> data = Database.loadBinary();
-    // }
-
     public static ArrayList<Animals> getListAnimals(int index) 
     {
         return listAviary.get(index).getAnimals();
@@ -29,15 +23,25 @@ public class AviaryStorage extends Storage
         listAnimals.remove(indexAnimal);
     }
 
+    public static void deleteAviary(int indexAviary)
+    {
+        listAviary.remove(indexAviary);
+    }
+
     public static String toStringListAviary() 
     {
         String result = "";
-        boolean load = false;
 
         for (int i = 0; i < listAviary.size(); i++) 
         {
-            result += (i + 1) + ") " + listAviary.get(i).toString(load);
+            result += (i + 1) + ") " + listAviary.get(i).toString();
         }
+
+        if (result == "") 
+        {
+            return empty;
+        }
+
         return result;
     }
 
@@ -46,11 +50,9 @@ public class AviaryStorage extends Storage
         String result = "";
         String empty = "Empty";
 
-        boolean load = false;
-
         for (int i = 0; i < listAviary.size(); i++) 
         {
-            result += (i + 1) + ") " + listAviary.get(i).toString(load) + listAviary.get(i).seeAnimals();
+            result += (i + 1) + ") " + listAviary.get(i).toString() + listAviary.get(i).seeAnimals();
         }
 
         if (result == "") 

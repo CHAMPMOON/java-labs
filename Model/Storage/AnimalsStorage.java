@@ -2,7 +2,7 @@ package Model.Storage;
 
 import java.util.ArrayList;
 
-import Model.AnimalsPack.*;
+import Model.Animals.*;
 
 public class AnimalsStorage extends Storage
 {
@@ -11,14 +11,20 @@ public class AnimalsStorage extends Storage
         listAnimals.add(AnimalsFactory.createAnimalsFactory(name, weight, year, type));
     }
 
-    public static String toStringListAnimals(ArrayList<Animals> listAnml, boolean inAviary) 
+    public static String toStringListAnimals() 
     {
         String result = "";
-
-        for (int i = 0; i < listAnml.size(); i++) 
+        
+        for (int i = 0; i < listAnimals.size(); i++) 
         {
-            result += (i + 1) + ") " + listAnml.get(i).toString(inAviary);
+            result += (i + 1) + ") " + listAnimals.get(i).toString();
         }
+        
+        if (result == "") 
+        {
+            return empty;
+        }
+
         return result;
     }
 

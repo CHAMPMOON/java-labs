@@ -1,6 +1,6 @@
-package Model.AnimalsPack;
+package Model.Animals;
 
-import Model.AnimalsPack.AnimalsChildClasses.*;
+import Model.Animals.AnimalsChildClasses.*;
 
 public class AnimalsFactory
 {

@@ -1,12 +1,15 @@
-package Model.AviaryPack;
+package Model.Aviary;
 
 import java.io.Serializable;
 import java.util.ArrayList;
-import Model.AnimalsPack.*;
+
+import Model.Animals.*;
 
 
 public abstract class Aviary implements Serializable
 {
+    private static final long serialVersionUID = 6529685098267757690L;
+    
     protected ArrayList<Animals> livingAnimals = new ArrayList<>();
     TypeAviary type;
     String name;
@@ -27,12 +30,8 @@ public abstract class Aviary implements Serializable
         return this.livingAnimals;
     }
 
-    public String toString(boolean load)
+    public String toString()
     {
-        if (load)
-        {
-            return this.name + " " + this.type.ordinal() + "\n";
-        }
         return this.getClass().getSimpleName() + " " + this.name + "\n";
     }
 
@@ -48,14 +47,11 @@ public abstract class Aviary implements Serializable
     {
         String result = "";
 
-        boolean inAviary = true;
-        boolean load = true;
-
-        result += this.toString(load);
+        result += this.toString();
 
         for (int i = 0; i < this.livingAnimals.size(); i++)
         {
-            result += this.livingAnimals.get(i).toString(inAviary);
+            result += this.livingAnimals.get(i).toString();
         }
         return result;
     }
@@ -63,12 +59,10 @@ public abstract class Aviary implements Serializable
     public String seeAnimals()
     {
         String result = "";
-        
-        boolean inAviary = true;
 
         for (int i = 0; i < this.livingAnimals.size(); i++)
         {
-            result += "\t" + (i + 1) + ") " + this.livingAnimals.get(i).toString(inAviary);
+            result += "\t" + (i + 1) + ") " + this.livingAnimals.get(i).toString();
         }
         return result;
     }

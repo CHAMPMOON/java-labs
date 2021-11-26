@@ -1,4 +1,4 @@
-package Model.AviaryPack;
+package Model.Aviary;
 
 public enum TypeAviary 
 {

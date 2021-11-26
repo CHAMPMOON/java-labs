@@ -1,7 +1,7 @@
-package Model.AviaryPack.AviaryChildClasses;
+package Model.Aviary.AviaryChildClasses;
 
-import Model.AviaryPack.Aviary;
-import Model.AviaryPack.TypeAviary;
+import Model.Aviary.Aviary;
+import Model.Aviary.TypeAviary;
 
 public class OpenAviary extends Aviary
 {
