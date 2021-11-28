@@ -1,11 +1,9 @@
-import Model.AnimalsPack.*;  
-import Model.AviaryPack.*;  
-import Controller.MainController;
+import Controller.AppController;
 
 public class Main 
 {
     public static void main(String[] args) 
     {
-        
+        AppController.runApp();
     }
 }
