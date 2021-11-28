@@ -5,10 +5,12 @@ import Model.Aviary.AviaryChildClasses.*;
 
 public class AviaryFactory
 {
-    public static Aviary createAviaryFactory(String name, int type)
+    public static Aviary createAviaryFactory(String name, int type) throws Exception
     {
         Aviary aviary = null;
-        
+
+        AviaryFactory.dataСhecking(type);
+
         switch (type)
         {
             case 0:
@@ -27,7 +29,14 @@ public class AviaryFactory
                 aviary = new WarmAviary(TypeAviary.WARM, name);
                 break;
         }
-
         return aviary;
+    }
+
+    public static void dataСhecking(int type) throws Exception
+    {
+        if (type < 0 || type > 3)
+        {
+            throw new Exception();
+        }
     }
 }

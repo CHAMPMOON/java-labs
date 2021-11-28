@@ -4,9 +4,11 @@ import Model.Animals.AnimalsChildClasses.*;
 
 public class AnimalsFactory
 {
-    public static Animals createAnimalsFactory(String name, double weight, int year, int type)
+    public static Animals createAnimalsFactory(String name, double weight, int year, int type) throws Exception
     {
         Animals animal = null;
+
+        AnimalsFactory.dataСhecking(weight, year, type);
         
         switch (type)
         {
@@ -25,12 +27,17 @@ public class AnimalsFactory
             case 3:
                 animal = new ColdAnimals(name, weight, year, TypeAnimals.COLDBLOOD);
                 break;
-
         }
-        
         return animal;
     }
 
+    public static void dataСhecking(double weight, int year, int type) throws Exception
+    {
+        if ((weight < 0) || (year < 0) || (type < 0 || type > 3))
+        {
+            throw new Exception();
+        }
+    }
 }
 
 

@@ -11,21 +11,29 @@ public class AviaryStorage extends Storage
     {
         return listAviary.get(index).getAnimals();
     }
+
+    public static int getListAviarySize()
+    {
+        return listAviary.size();
+    }
     
-    public static void createAviary(String name, int type) 
+    public static String createAviary(String name, int type) 
     {
-        listAviary.add(AviaryFactory.createAviaryFactory(name, type));
+        try
+        {
+            listAviary.add(AviaryFactory.createAviaryFactory(name, type));
+            return createMessage;
+        }
+        catch(Exception e)
+        {
+            return errorMessage;
+        }
     }
 
-    public static void moveAnimal(int indexAnimal, int indexAviary) 
-    {
-        listAviary.get(indexAviary).move(listAnimals.get(indexAnimal));
-        listAnimals.remove(indexAnimal);
-    }
-
-    public static void deleteAviary(int indexAviary)
+    public static String deleteAviary(int indexAviary)
     {
         listAviary.remove(indexAviary);
+        return deleteMessage;
     }
 
     public static String toStringListAviary() 
@@ -63,4 +71,3 @@ public class AviaryStorage extends Storage
         return result;
     }
 }   
-

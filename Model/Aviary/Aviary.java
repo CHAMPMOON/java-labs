@@ -7,9 +7,7 @@ import Model.Animals.*;
 
 
 public abstract class Aviary implements Serializable
-{
-    private static final long serialVersionUID = 6529685098267757690L;
-    
+{    
     protected ArrayList<Animals> livingAnimals = new ArrayList<>();
     TypeAviary type;
     String name;
@@ -35,12 +33,16 @@ public abstract class Aviary implements Serializable
         return this.getClass().getSimpleName() + " " + this.name + "\n";
     }
 
-    public void move(Animals animal)
+    public void move(Animals animal) throws ClassCastException
     {
         if (this.type.ordinal() == animal.getType().ordinal()) 
         {
             this.livingAnimals.add(animal);
-        }  
+        } 
+        else
+        {
+            throw new ClassCastException();
+        }
     }
 
     public String writeAnimals()
