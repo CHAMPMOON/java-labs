@@ -17,32 +17,20 @@ public class AnimalsStorage extends Storage
         return deleteMessage;
     }
 
-    public static String createAnimal(String name, double weight, int year, int type) 
+    public static String createAnimal(String name, double weight, int year, int type) throws IndexOutOfBoundsException
     {
-        try
-        {
-            listAnimals.add(AnimalsFactory.createAnimalsFactory(name, weight, year, type));
-            return createMessage;
-        }
-        catch(Exception ex)
-        {
-            return errorMessage;
-        }
+
+        listAnimals.add(AnimalsFactory.createAnimalsFactory(name, weight, year, type));
+        return createMessage;
     }
 
-    public static String moveAnimal(int indexAnimal, int indexAviary) 
+    public static String moveAnimal(int indexAnimal, int indexAviary) throws ClassCastException
     {
-        try
-        {
-            listAviary.get(indexAviary).move(listAnimals.get(indexAnimal));
-            listAnimals.remove(indexAnimal);
 
-            return moveMessage;
-        }
-        catch(ClassCastException ex)
-        {
-            return errMoveMessage;
-        }
+        listAviary.get(indexAviary).move(listAnimals.get(indexAnimal));
+        listAnimals.remove(indexAnimal);
+
+        return moveMessage;
     }
 
     public static String toStringListAnimals(ArrayList<Animals> list) 

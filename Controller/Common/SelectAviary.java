@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 import Model.Storage.AviaryStorage;
 import View.CommonView;
+import utils.ForLogs;
 
 public class SelectAviary 
 {
@@ -26,7 +27,7 @@ public class SelectAviary
 
                 if (numberAviary > size || numberAviary <= 0)
                 {
-                    throw new Exception();
+                    throw new IndexOutOfBoundsException();
                 }
                 break;
             }
@@ -34,6 +35,7 @@ public class SelectAviary
             {
                 CommonView.clearScreen();
                 CommonView.showCommonMessage(1);
+                ForLogs.addErrWithLog(ex);
             }
         }
         CommonView.clearScreen();

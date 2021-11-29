@@ -17,17 +17,10 @@ public class AviaryStorage extends Storage
         return listAviary.size();
     }
     
-    public static String createAviary(String name, int type) 
+    public static String createAviary(String name, int type) throws IndexOutOfBoundsException
     {
-        try
-        {
-            listAviary.add(AviaryFactory.createAviaryFactory(name, type));
-            return createMessage;
-        }
-        catch(Exception e)
-        {
-            return errorMessage;
-        }
+        listAviary.add(AviaryFactory.createAviaryFactory(name, type));
+        return createMessage;
     }
 
     public static String deleteAviary(int indexAviary)

@@ -18,7 +18,8 @@ public class AppView
         "Already used",
         "Successfully used",
         "Successfully saved",
-        "Wrong input"
+        "Wrong input", 
+        "Something went wrong"
     };
 
     public static void showMainMenu()

@@ -16,7 +16,8 @@ public class AnimalsView
     static String[] arrMessages = {
         "Wrong input\n",
         "Empty sizes of animals\n",
-        "Empty sizes of aviary\n"
+        "Empty sizes of aviary\n",
+        "Type mismatch\n",
     };
 
     public static void showAnimalsMenu()

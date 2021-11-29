@@ -1,0 +1,38 @@
+Nov 29, 2021 7:49:23 PM utils.ForLogs createLog
+INFO: User champmoon logged in successfully
+Nov 29, 2021 7:49:30 PM utils.ForLogs createLog
+INFO: Successfully loaded into database
+Nov 29, 2021 7:49:38 PM utils.ForLogs createLog
+INFO: Create aviary: name_1 type - 0
+Nov 29, 2021 7:49:49 PM utils.ForLogs addErrWithLog
+WARNING: Exception:
+java.lang.IndexOutOfBoundsException
+	at Model.Aviary.AviaryFactory.dataСhecking(AviaryFactory.java:39)
+	at Model.Aviary.AviaryFactory.createAviaryFactory(AviaryFactory.java:12)
+	at Model.Storage.AviaryStorage.createAviary(AviaryStorage.java:22)
+	at Controller.Aviary.CreateAviary.run(CreateAviary.java:20)
+	at Controller.Aviary.AviaryController.runAviaryBlock(AviaryController.java:31)
+	at Controller.AppController.runApp(AppController.java:35)
+	at Main.main(Main.java:10)
+
+Nov 29, 2021 7:50:10 PM utils.ForLogs createLog
+INFO: Delete aviary with index - 2
+Nov 29, 2021 7:50:14 PM utils.ForLogs createLog
+INFO: Delete aviary with index - 1
+Nov 29, 2021 7:50:15 PM utils.ForLogs createLog
+INFO: Delete aviary with index - 0
+Nov 29, 2021 7:50:56 PM utils.ForLogs createLog
+INFO: Create animal: 1 1.0 1 type - 0
+Nov 29, 2021 7:51:04 PM utils.ForLogs addErrWithLog
+WARNING: Exception:
+java.lang.IndexOutOfBoundsException
+	at Model.Animals.AnimalsFactory.dataСhecking(AnimalsFactory.java:38)
+	at Model.Animals.AnimalsFactory.createAnimalsFactory(AnimalsFactory.java:11)
+	at Model.Storage.AnimalsStorage.createAnimal(AnimalsStorage.java:23)
+	at Controller.Animals.CreateAnimals.run(CreateAnimals.java:23)
+	at Controller.Animals.AnimalsController.runAnimalsBlock(AnimalsController.java:33)
+	at Controller.AppController.runApp(AppController.java:39)
+	at Main.main(Main.java:10)
+
+Nov 29, 2021 7:51:33 PM utils.ForLogs createLog
+INFO: User champmoon logged out

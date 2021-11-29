@@ -1,16 +1,24 @@
 package Controller;
 
+import java.io.IOException;
 import java.util.Scanner;
+import java.util.logging.Level;
 
 import Controller.Animals.AnimalsController;
 import Controller.Aviary.AviaryController;
 import Model.Storage.*;
 import View.*;
+import utils.*;
 
 public class AppController 
 {
+    static User user;
+    static ForLogs logApp;
+
     public static void runApp()
     {
+        AppController.setLogger();
+
         CommonView.clearScreen();
 
         @SuppressWarnings("resource")
@@ -37,17 +45,15 @@ public class AppController
                     break;
                 
                 case "4": 
-                    CommonView.clearScreen();
                     AppController.logicLoaded();
                     break;
 
                 case "5": 
-                    CommonView.clearScreen();
-                    Database.saveData();
-                    AppView.showAppMessage(2);
+                    AppController.logicSaved();
                     break;
                 
                 case "6": 
+                    ForLogs.createLog(Level.INFO, "User " + user.getLogin() + " logged out");
                     return;
                 
                 default:
@@ -57,16 +63,60 @@ public class AppController
         }
     }
 
+    private static void setLogger() 
+    {
+        try 
+        {
+            user = new User();
+            logApp = new ForLogs(user);
+
+            ForLogs.createLog(Level.INFO, "User " + user.getLogin() + " logged in successfully");
+        }
+        catch(IOException ex)
+        {
+            ForLogs.addErrWithLog(ex);
+        }
+    }
+
     public static void logicLoaded()
     {
+        
+        CommonView.clearScreen();
         if (Database.getIsLoaded())
         {
             AppView.showAppMessage(0);
         }
         else
         {
-            Database.loadData();
-            AppView.showAppMessage(1);
+            try 
+            {
+                Database.loadData();
+                AppView.showAppMessage(1);
+
+                ForLogs.createLog(Level.INFO, "Successfully loaded into database");
+            }
+            catch(ClassNotFoundException | IOException ex)
+            {   
+                ForLogs.addErrWithLog(ex);
+                AppView.showAppMessage(4);
+            }
+        }
+    }
+
+    public static void logicSaved()
+    {
+        CommonView.clearScreen();
+        try 
+        {
+            Database.saveData();
+            AppView.showAppMessage(2);
+
+            ForLogs.createLog(Level.INFO, "Successfully saved in database");
+        }
+        catch(IOException ex)
+        {
+            ForLogs.addErrWithLog(ex);
+            AppView.showAppMessage(4);
         }
     }
 }

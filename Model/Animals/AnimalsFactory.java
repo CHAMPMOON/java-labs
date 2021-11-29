@@ -4,7 +4,7 @@ import Model.Animals.AnimalsChildClasses.*;
 
 public class AnimalsFactory
 {
-    public static Animals createAnimalsFactory(String name, double weight, int year, int type) throws Exception
+    public static Animals createAnimalsFactory(String name, double weight, int year, int type) throws IndexOutOfBoundsException
     {
         Animals animal = null;
 
@@ -31,11 +31,11 @@ public class AnimalsFactory
         return animal;
     }
 
-    public static void dataСhecking(double weight, int year, int type) throws Exception
+    public static void dataСhecking(double weight, int year, int type) throws IndexOutOfBoundsException
     {
         if ((weight < 0) || (year < 0) || (type < 0 || type > 3))
         {
-            throw new Exception();
+            throw new IndexOutOfBoundsException();
         }
     }
 }

@@ -5,7 +5,7 @@ import Model.Aviary.AviaryChildClasses.*;
 
 public class AviaryFactory
 {
-    public static Aviary createAviaryFactory(String name, int type) throws Exception
+    public static Aviary createAviaryFactory(String name, int type) throws IndexOutOfBoundsException
     {
         Aviary aviary = null;
 
@@ -32,11 +32,11 @@ public class AviaryFactory
         return aviary;
     }
 
-    public static void dataСhecking(int type) throws Exception
+    public static void dataСhecking(int type) throws IndexOutOfBoundsException
     {
         if (type < 0 || type > 3)
         {
-            throw new Exception();
+            throw new IndexOutOfBoundsException();
         }
     }
 }

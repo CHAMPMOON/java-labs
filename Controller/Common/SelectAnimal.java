@@ -6,6 +6,7 @@ import java.util.Scanner;
 import Model.Animals.Animals;
 import Model.Storage.AnimalsStorage;
 import View.CommonView;
+import utils.ForLogs;
 
 public class SelectAnimal 
 {
@@ -28,7 +29,7 @@ public class SelectAnimal
 
                 if (numberAnimal > size || numberAnimal <= 0)
                 {
-                    throw new Exception();
+                    throw new IndexOutOfBoundsException();
                 }
 
                 break;
@@ -37,6 +38,7 @@ public class SelectAnimal
             {
                 CommonView.clearScreen();
                 CommonView.showCommonMessage(1);
+                ForLogs.addErrWithLog(ex);
             }
         }
         CommonView.clearScreen();  

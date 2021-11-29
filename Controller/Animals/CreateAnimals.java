@@ -1,8 +1,11 @@
 package Controller.Animals;
 
+import java.util.logging.Level;
+
 import Controller.Common.*;
 import Model.Storage.AnimalsStorage;
 import View.*;
+import utils.ForLogs;
 
 public class CreateAnimals 
 {
@@ -15,6 +18,15 @@ public class CreateAnimals
 
         
         CommonView.clearScreen();
-        System.out.println(AnimalsStorage.createAnimal(name, weight, year, type));
+        try
+        {
+            System.out.println(AnimalsStorage.createAnimal(name, weight, year, type));
+            ForLogs.createLog(Level.INFO, "Create animal: " + name + " " + weight + " " + year + " " + "type - " + type);
+        }
+        catch(IndexOutOfBoundsException ex)
+        {
+            AnimalsView.showAnimalsMessage(0);
+            ForLogs.addErrWithLog(ex);
+        }
     }
 }

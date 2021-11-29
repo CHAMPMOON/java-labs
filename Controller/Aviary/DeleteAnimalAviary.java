@@ -1,11 +1,13 @@
 package Controller.Aviary;
 
 import java.util.ArrayList;
+import java.util.logging.Level;
 
 import Controller.Common.*;
 import Model.Animals.Animals;
 import Model.Storage.*;
 import View.*;
+import utils.ForLogs;
 
 public class DeleteAnimalAviary 
 {
@@ -29,6 +31,7 @@ public class DeleteAnimalAviary
             {
                 int indexAnimal = SelectAnimal.run(list) - 1;
                 System.out.println(AnimalsStorage.deleteAnimals(indexAnimal, list));
+                ForLogs.createLog(Level.INFO, "Delete animal with index - " + indexAnimal + " in aviary with index - " + indexAviary);
             }
         }
     }

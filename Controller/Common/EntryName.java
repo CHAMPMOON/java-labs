@@ -3,6 +3,7 @@ package Controller.Common;
 import java.util.Scanner;
 
 import View.CommonView;
+import utils.ForLogs;
 
 public class EntryName 
 {
@@ -22,14 +23,15 @@ public class EntryName
 
                 if (name.length() == 0)
                 {
-                    throw new Exception();
+                    throw new IllegalArgumentException();
                 }
                 break;
             }
-            catch(Exception ex)
+            catch(IllegalArgumentException ex)
             {
                 CommonView.clearScreen();
                 CommonView.showCommonMessage(1);
+                ForLogs.addErrWithLog(ex);
             }
         }
         return name;

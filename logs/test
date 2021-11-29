@@ -1,0 +1,4428 @@
+Nov 29, 2021 5:48:53 PM utils.CollectionTests startTest
+INFO: **ArrayList test started**Mon Nov 29 17:48:53 MSK 2021
+Nov 29, 2021 5:48:53 PM utils.CollectionTests startTest
+INFO: add.ID = 1 Time: 5625718
+Nov 29, 2021 5:48:53 PM utils.CollectionTests startTest
+INFO: add.ID = 2 Time: 20479
+Nov 29, 2021 5:48:53 PM utils.CollectionTests startTest
+INFO: add.ID = 3 Time: 19300
+Nov 29, 2021 5:48:53 PM utils.CollectionTests startTest
+INFO: add.ID = 4 Time: 17476
+Nov 29, 2021 5:48:53 PM utils.CollectionTests startTest
+INFO: add.ID = 5 Time: 16487
+Nov 29, 2021 5:48:53 PM utils.CollectionTests startTest
+INFO: add.ID = 6 Time: 19257
+Nov 29, 2021 5:48:53 PM utils.CollectionTests startTest
+INFO: add.ID = 7 Time: 20744
+Nov 29, 2021 5:48:53 PM utils.CollectionTests startTest
+INFO: add.ID = 8 Time: 18986
+Nov 29, 2021 5:48:53 PM utils.CollectionTests startTest
+INFO: add.ID = 9 Time: 20045
+Nov 29, 2021 5:48:53 PM utils.CollectionTests startTest
+INFO: add.ID = 10 Time: 21669
+Nov 29, 2021 5:48:53 PM utils.CollectionTests startTest
+INFO: add.ID = 11 Time: 23731
+Nov 29, 2021 5:48:53 PM utils.CollectionTests startTest
+INFO: add.ID = 12 Time: 18298
+Nov 29, 2021 5:48:53 PM utils.CollectionTests startTest
+INFO: add.ID = 13 Time: 15892
+Nov 29, 2021 5:48:53 PM utils.CollectionTests startTest
+INFO: add.ID = 14 Time: 16995
+Nov 29, 2021 5:48:53 PM utils.CollectionTests startTest
+INFO: add.ID = 15 Time: 18812
+Nov 29, 2021 5:48:53 PM utils.CollectionTests startTest
+INFO: add.ID = 16 Time: 20951
+Nov 29, 2021 5:48:53 PM utils.CollectionTests startTest
+INFO: add.ID = 17 Time: 13056
+Nov 29, 2021 5:48:53 PM utils.CollectionTests startTest
+INFO: add.ID = 18 Time: 13514
+Nov 29, 2021 5:48:53 PM utils.CollectionTests startTest
+INFO: add.ID = 19 Time: 30392
+Nov 29, 2021 5:48:53 PM utils.CollectionTests startTest
+INFO: add.ID = 20 Time: 18359
+Nov 29, 2021 5:48:53 PM utils.CollectionTests startTest
+INFO: add.ID = 21 Time: 17911
+Nov 29, 2021 5:48:53 PM utils.CollectionTests startTest
+INFO: add.ID = 22 Time: 29681
+Nov 29, 2021 5:48:53 PM utils.CollectionTests startTest
+INFO: add.ID = 23 Time: 21178
+Nov 29, 2021 5:48:53 PM utils.CollectionTests startTest
+INFO: add.ID = 24 Time: 17359
+Nov 29, 2021 5:48:53 PM utils.CollectionTests startTest
+INFO: add.ID = 25 Time: 12541
+Nov 29, 2021 5:48:53 PM utils.CollectionTests startTest
+INFO: add.ID = 26 Time: 20670
+Nov 29, 2021 5:48:53 PM utils.CollectionTests startTest
+INFO: add.ID = 27 Time: 17483
+Nov 29, 2021 5:48:53 PM utils.CollectionTests startTest
+INFO: add.ID = 28 Time: 19785
+Nov 29, 2021 5:48:53 PM utils.CollectionTests startTest
+INFO: add.ID = 29 Time: 26042
+Nov 29, 2021 5:48:53 PM utils.CollectionTests startTest
+INFO: add.ID = 30 Time: 19271
+Nov 29, 2021 5:48:53 PM utils.CollectionTests startTest
+INFO: add.ID = 31 Time: 18198
+Nov 29, 2021 5:48:53 PM utils.CollectionTests startTest
+INFO: add.ID = 32 Time: 18499
+Nov 29, 2021 5:48:53 PM utils.CollectionTests startTest
+INFO: add.ID = 33 Time: 16641
+Nov 29, 2021 5:48:53 PM utils.CollectionTests startTest
+INFO: add.ID = 34 Time: 20991
+Nov 29, 2021 5:48:53 PM utils.CollectionTests startTest
+INFO: add.ID = 35 Time: 16354
+Nov 29, 2021 5:48:53 PM utils.CollectionTests startTest
+INFO: add.ID = 36 Time: 38160
+Nov 29, 2021 5:48:53 PM utils.CollectionTests startTest
+INFO: add.ID = 37 Time: 18181
+Nov 29, 2021 5:48:53 PM utils.CollectionTests startTest
+INFO: add.ID = 38 Time: 18719
+Nov 29, 2021 5:48:53 PM utils.CollectionTests startTest
+INFO: add.ID = 39 Time: 17493
+Nov 29, 2021 5:48:53 PM utils.CollectionTests startTest
+INFO: add.ID = 40 Time: 18054
+Nov 29, 2021 5:48:53 PM utils.CollectionTests startTest
+INFO: add.ID = 41 Time: 16150
+Nov 29, 2021 5:48:53 PM utils.CollectionTests startTest
+INFO: add.ID = 42 Time: 16367
+Nov 29, 2021 5:48:53 PM utils.CollectionTests startTest
+INFO: add.ID = 43 Time: 14269
+Nov 29, 2021 5:48:53 PM utils.CollectionTests startTest
+INFO: add.ID = 44 Time: 17824
+Nov 29, 2021 5:48:53 PM utils.CollectionTests startTest
+INFO: add.ID = 45 Time: 13144
+Nov 29, 2021 5:48:53 PM utils.CollectionTests startTest
+INFO: add.ID = 46 Time: 19715
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 47 Time: 17062
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 48 Time: 16654
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 49 Time: 16942
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 50 Time: 19567
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 51 Time: 15759
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 52 Time: 16637
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 53 Time: 16330
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 54 Time: 20109
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 55 Time: 16564
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 56 Time: 16942
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 57 Time: 17219
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 58 Time: 18505
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 59 Time: 24592
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 60 Time: 16367
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 61 Time: 19036
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 62 Time: 17309
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 63 Time: 17069
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 64 Time: 18602
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 65 Time: 16297
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 66 Time: 18565
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 67 Time: 17733
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 68 Time: 18334
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 69 Time: 21368
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 70 Time: 17600
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 71 Time: 16317
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 72 Time: 33542
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 73 Time: 21328
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 74 Time: 22247
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 75 Time: 16865
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 76 Time: 18075
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 77 Time: 15571
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 78 Time: 13427
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 79 Time: 16049
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 80 Time: 16742
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 81 Time: 15769
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 82 Time: 18439
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 83 Time: 16147
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 84 Time: 15990
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 85 Time: 14954
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 86 Time: 17239
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 87 Time: 15930
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 88 Time: 16781
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 89 Time: 16347
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 90 Time: 19050
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 91 Time: 17510
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 92 Time: 16177
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 93 Time: 16915
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 94 Time: 16735
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 95 Time: 19331
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 96 Time: 17967
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 97 Time: 17957
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 98 Time: 18124
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 99 Time: 18902
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 100 Time: 18341
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 101 Time: 17743
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 102 Time: 20590
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 103 Time: 17015
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 104 Time: 27650
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 105 Time: 17613
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 106 Time: 17596
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 107 Time: 30910
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 108 Time: 18228
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 109 Time: 18358
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 110 Time: 34087
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 111 Time: 27418
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 112 Time: 19250
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 113 Time: 16771
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 114 Time: 25949
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 115 Time: 16220
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 116 Time: 18131
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 117 Time: 28609
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 118 Time: 19167
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 119 Time: 17670
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 120 Time: 24867
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 121 Time: 15184
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 122 Time: 17646
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 123 Time: 26621
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 124 Time: 19507
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 125 Time: 18208
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 126 Time: 18111
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 127 Time: 16832
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 128 Time: 24539
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 129 Time: 19290
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 130 Time: 16648
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 131 Time: 15893
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 132 Time: 18208
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 133 Time: 18920
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 134 Time: 19428
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 135 Time: 16815
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 136 Time: 18455
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 137 Time: 18528
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 138 Time: 18001
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 139 Time: 17443
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 140 Time: 17523
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 141 Time: 18479
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 142 Time: 18208
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 143 Time: 17132
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 144 Time: 17420
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 145 Time: 16942
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 146 Time: 15094
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 147 Time: 16183
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 148 Time: 17760
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 149 Time: 15328
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 150 Time: 15147
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 151 Time: 17603
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 152 Time: 17442
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 153 Time: 16371
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 154 Time: 15882
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 155 Time: 16230
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 156 Time: 17259
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 157 Time: 18431
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 158 Time: 17804
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 159 Time: 18723
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 160 Time: 17710
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 161 Time: 16393
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 162 Time: 17085
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 163 Time: 16655
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 164 Time: 19354
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 165 Time: 18335
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 166 Time: 19180
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 167 Time: 15405
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 168 Time: 15095
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 169 Time: 15739
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 170 Time: 15238
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 171 Time: 18335
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 172 Time: 20206
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 173 Time: 18215
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 174 Time: 18215
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 175 Time: 15629
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 176 Time: 16895
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 177 Time: 17673
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 178 Time: 17132
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 179 Time: 18084
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 180 Time: 17600
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 181 Time: 16444
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 182 Time: 16447
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 183 Time: 15569
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 184 Time: 26390
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 185 Time: 15365
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 186 Time: 23961
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 187 Time: 22597
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 188 Time: 17116
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 189 Time: 16768
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 190 Time: 17118
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 191 Time: 17686
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 192 Time: 23787
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 193 Time: 16885
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 194 Time: 16016
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 195 Time: 15315
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 196 Time: 20005
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 197 Time: 17062
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 198 Time: 16942
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 199 Time: 16832
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 200 Time: 16301
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 201 Time: 15916
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 202 Time: 20366
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 203 Time: 16624
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 204 Time: 28488
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 205 Time: 18205
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 206 Time: 15255
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 207 Time: 28337
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 208 Time: 18883
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 209 Time: 18084
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 210 Time: 66076
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 211 Time: 23479
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 212 Time: 15813
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 213 Time: 24362
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 214 Time: 14382
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 215 Time: 15816
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 216 Time: 18578
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 217 Time: 12468
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 218 Time: 13868
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 219 Time: 14600
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 220 Time: 12575
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 221 Time: 18973
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 222 Time: 16521
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 223 Time: 20623
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 224 Time: 15970
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 225 Time: 19450
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 226 Time: 14440
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 227 Time: 13461
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 228 Time: 21980
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 229 Time: 14496
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 230 Time: 14620
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 231 Time: 13491
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 232 Time: 13808
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 233 Time: 15442
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 234 Time: 13294
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 235 Time: 13942
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 236 Time: 13310
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 237 Time: 17339
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 238 Time: 12946
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 239 Time: 16307
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 240 Time: 14059
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 241 Time: 15087
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 242 Time: 14513
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 243 Time: 14520
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 244 Time: 15095
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 245 Time: 19007
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 246 Time: 32146
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 247 Time: 13190
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 248 Time: 13644
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 249 Time: 16190
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 250 Time: 15546
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 251 Time: 234635
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 252 Time: 64106
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 253 Time: 14038
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 254 Time: 12919
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 255 Time: 12853
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 256 Time: 22308
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 257 Time: 13270
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 258 Time: 13607
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 259 Time: 14774
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 260 Time: 13236
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 261 Time: 11379
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 262 Time: 11172
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 263 Time: 12585
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 264 Time: 12341
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 265 Time: 12362
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 266 Time: 13437
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 267 Time: 12900
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 268 Time: 12806
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 269 Time: 11513
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 270 Time: 12729
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 271 Time: 10929
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 272 Time: 12027
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 273 Time: 10618
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 274 Time: 11847
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 275 Time: 12158
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 276 Time: 11566
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 277 Time: 10872
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 278 Time: 11352
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 279 Time: 14847
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 280 Time: 10988
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 281 Time: 10223
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 282 Time: 10073
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 283 Time: 11396
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 284 Time: 12963
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 285 Time: 12502
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 286 Time: 11760
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 287 Time: 10928
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 288 Time: 13243
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 289 Time: 10544
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 290 Time: 10998
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 291 Time: 12709
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 292 Time: 25264
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 293 Time: 16487
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 294 Time: 14295
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 295 Time: 16815
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 296 Time: 18969
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 297 Time: 12605
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 298 Time: 12512
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 299 Time: 13160
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 300 Time: 10541
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 301 Time: 12615
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 302 Time: 17827
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 303 Time: 12829
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 304 Time: 14791
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 305 Time: 11059
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 306 Time: 13200
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 307 Time: 18197
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 308 Time: 19427
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 309 Time: 13631
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 310 Time: 22424
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 311 Time: 24349
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 312 Time: 15511
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 313 Time: 11623
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 314 Time: 12930
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 315 Time: 21565
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 316 Time: 12793
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 317 Time: 13263
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 318 Time: 13273
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 319 Time: 12181
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 320 Time: 17690
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 321 Time: 14744
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 322 Time: 12789
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 323 Time: 13056
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 324 Time: 12542
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 325 Time: 14409
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 326 Time: 14253
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 327 Time: 13878
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 328 Time: 14449
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 329 Time: 13828
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 330 Time: 14860
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 331 Time: 14089
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 332 Time: 15385
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 333 Time: 15372
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 334 Time: 13157
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 335 Time: 13808
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 336 Time: 16825
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 337 Time: 152519
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 338 Time: 16210
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 339 Time: 15382
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 340 Time: 16444
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 341 Time: 13677
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 342 Time: 15191
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 343 Time: 13765
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 344 Time: 14149
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 345 Time: 12535
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 346 Time: 12638
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 347 Time: 12806
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 348 Time: 12215
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 349 Time: 14055
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 350 Time: 13484
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 351 Time: 15479
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 352 Time: 418850
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 353 Time: 20620
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 354 Time: 21088
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 355 Time: 13735
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 356 Time: 14797
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 357 Time: 12442
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 358 Time: 12070
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 359 Time: 17199
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 360 Time: 16514
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 361 Time: 11597
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 362 Time: 12434
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 363 Time: 13797
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 364 Time: 13020
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 365 Time: 11623
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 366 Time: 12155
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 367 Time: 17610
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 368 Time: 12656
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 369 Time: 23082
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 370 Time: 11954
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 371 Time: 13203
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 372 Time: 13447
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 373 Time: 13283
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 374 Time: 13655
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 375 Time: 12863
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 376 Time: 14249
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 377 Time: 12475
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 378 Time: 11796
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 379 Time: 10698
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 380 Time: 10102
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 381 Time: 11790
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 382 Time: 10363
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 383 Time: 12445
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 384 Time: 19347
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 385 Time: 13374
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 386 Time: 12582
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 387 Time: 11112
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 388 Time: 11048
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 389 Time: 11660
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 390 Time: 11664
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 391 Time: 10578
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 392 Time: 13093
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 393 Time: 15673
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 394 Time: 25751
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 395 Time: 18235
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 396 Time: 14897
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 397 Time: 13390
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 398 Time: 11649
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 399 Time: 12150
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 400 Time: 12835
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 401 Time: 11580
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 402 Time: 12973
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 403 Time: 12502
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 404 Time: 14059
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 405 Time: 12150
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 406 Time: 11820
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 407 Time: 12161
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 408 Time: 11944
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 409 Time: 12014
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 410 Time: 12846
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 411 Time: 11757
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 412 Time: 10965
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 413 Time: 12324
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 414 Time: 12782
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 415 Time: 24128
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 416 Time: 14269
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 417 Time: 15348
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 418 Time: 34905
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 419 Time: 12027
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 420 Time: 12405
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 421 Time: 21515
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 422 Time: 12201
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 423 Time: 10484
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 424 Time: 21716
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 425 Time: 12585
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 426 Time: 11012
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 427 Time: 22377
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 428 Time: 12050
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 429 Time: 12054
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 430 Time: 12859
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 431 Time: 12943
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 432 Time: 12502
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 433 Time: 12799
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 434 Time: 12598
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 435 Time: 12188
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 436 Time: 12686
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 437 Time: 12408
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 438 Time: 12816
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 439 Time: 11559
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 440 Time: 12632
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 441 Time: 11506
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 442 Time: 12578
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 443 Time: 10741
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 444 Time: 10711
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 445 Time: 12218
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 446 Time: 10748
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 447 Time: 11255
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 448 Time: 11610
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 449 Time: 12371
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 450 Time: 11128
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 451 Time: 18275
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 452 Time: 10484
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 453 Time: 11492
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 454 Time: 12044
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 455 Time: 13076
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 456 Time: 12949
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 457 Time: 12890
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 458 Time: 12348
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 459 Time: 12642
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 460 Time: 11664
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 461 Time: 12552
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 462 Time: 13096
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 463 Time: 11780
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 464 Time: 12845
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 465 Time: 12244
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 466 Time: 13307
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 467 Time: 11526
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 468 Time: 11389
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 469 Time: 12000
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 470 Time: 12164
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 471 Time: 12324
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 472 Time: 10440
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 473 Time: 11920
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 474 Time: 11028
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 475 Time: 12251
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 476 Time: 12432
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 477 Time: 13126
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 478 Time: 12472
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 479 Time: 12221
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 480 Time: 13497
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 481 Time: 13373
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 482 Time: 13774
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 483 Time: 11696
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 484 Time: 21809
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 485 Time: 12428
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 486 Time: 14496
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 487 Time: 13637
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 488 Time: 18171
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 489 Time: 15929
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 490 Time: 12188
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 491 Time: 19922
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 492 Time: 20396
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 493 Time: 13423
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 494 Time: 19805
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 495 Time: 13130
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 496 Time: 13060
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 497 Time: 12315
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 498 Time: 25725
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 499 Time: 13033
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 500 Time: 14219
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 501 Time: 22992
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 502 Time: 12926
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 503 Time: 14353
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 504 Time: 12479
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 505 Time: 21235
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 506 Time: 13965
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 507 Time: 13514
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 508 Time: 13875
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 509 Time: 14362
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 510 Time: 13798
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 511 Time: 15439
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 512 Time: 23550
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 513 Time: 21976
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 514 Time: 12207
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 515 Time: 12755
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 516 Time: 13260
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 517 Time: 13177
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 518 Time: 13153
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 519 Time: 12114
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 520 Time: 13113
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 521 Time: 13908
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 522 Time: 13043
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 523 Time: 12718
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 524 Time: 12414
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 525 Time: 12372
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 526 Time: 11342
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 527 Time: 13434
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 528 Time: 11967
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 529 Time: 13263
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 530 Time: 12906
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 531 Time: 13354
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 532 Time: 12158
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 533 Time: 12632
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 534 Time: 14115
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 535 Time: 13301
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 536 Time: 12211
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 537 Time: 12993
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 538 Time: 14219
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 539 Time: 12823
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 540 Time: 11944
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 541 Time: 12148
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 542 Time: 11807
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 543 Time: 12127
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 544 Time: 11072
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 545 Time: 10136
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 546 Time: 9809
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 547 Time: 9950
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 548 Time: 19792
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 549 Time: 13658
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 550 Time: 26370
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 551 Time: 12254
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 552 Time: 20353
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 553 Time: 9925
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 554 Time: 11649
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 555 Time: 32062
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 556 Time: 12966
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 557 Time: 12051
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 558 Time: 22799
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 559 Time: 12719
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 560 Time: 12302
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 561 Time: 22979
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 562 Time: 12642
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 563 Time: 10895
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 564 Time: 11657
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 565 Time: 13043
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 566 Time: 13727
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 567 Time: 13888
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 568 Time: 12094
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 569 Time: 13785
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 570 Time: 14002
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 571 Time: 13444
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 572 Time: 13174
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 573 Time: 12395
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 574 Time: 13120
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 575 Time: 13270
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 576 Time: 12555
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 577 Time: 12816
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 578 Time: 12074
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 579 Time: 11279
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 580 Time: 13026
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 581 Time: 15234
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 582 Time: 13527
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 583 Time: 12342
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 584 Time: 20095
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 585 Time: 13480
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 586 Time: 13470
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 587 Time: 12281
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 588 Time: 11940
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 589 Time: 12241
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 590 Time: 11693
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 591 Time: 12154
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 592 Time: 12535
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 593 Time: 12792
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 594 Time: 12966
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 595 Time: 13220
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 596 Time: 15298
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 597 Time: 14269
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 598 Time: 12746
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 599 Time: 12138
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 600 Time: 12746
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 601 Time: 13752
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 602 Time: 12057
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 603 Time: 15649
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 604 Time: 11579
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 605 Time: 12255
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 606 Time: 11683
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 607 Time: 12472
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 608 Time: 11573
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 609 Time: 12048
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 610 Time: 30055
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 611 Time: 11410
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 612 Time: 12562
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 613 Time: 22665
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 614 Time: 13286
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 615 Time: 20510
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 616 Time: 26995
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 617 Time: 12755
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 618 Time: 11299
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 619 Time: 20316
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 620 Time: 11543
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 621 Time: 11229
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 622 Time: 10473
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 623 Time: 28659
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 624 Time: 25457
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 625 Time: 15395
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 626 Time: 15619
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 627 Time: 13885
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 628 Time: 10891
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 629 Time: 11864
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 630 Time: 11252
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 631 Time: 12960
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 632 Time: 10441
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 633 Time: 11309
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 634 Time: 11629
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 635 Time: 11476
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 636 Time: 11042
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 637 Time: 16952
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 638 Time: 14139
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 639 Time: 11950
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 640 Time: 20841
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 641 Time: 11813
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 642 Time: 12541
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 643 Time: 12442
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 644 Time: 12682
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 645 Time: 12028
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 646 Time: 11372
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 647 Time: 10898
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 648 Time: 12235
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 649 Time: 10567
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 650 Time: 10336
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 651 Time: 12305
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 652 Time: 11817
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 653 Time: 11704
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 654 Time: 12688
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 655 Time: 12698
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 656 Time: 13077
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 657 Time: 13768
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 658 Time: 15900
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 659 Time: 16196
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 660 Time: 14179
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 661 Time: 12475
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 662 Time: 12779
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 663 Time: 13697
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 664 Time: 12305
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 665 Time: 10330
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 666 Time: 12011
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 667 Time: 11513
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 668 Time: 11322
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 669 Time: 10925
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 670 Time: 11546
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 671 Time: 11126
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 672 Time: 9983
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 673 Time: 10554
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 674 Time: 10557
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 675 Time: 11950
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 676 Time: 12088
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 677 Time: 12949
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 678 Time: 13427
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 679 Time: 15282
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 680 Time: 13036
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 681 Time: 23647
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 682 Time: 13768
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 683 Time: 13213
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 684 Time: 20610
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 685 Time: 13016
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 686 Time: 13390
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 687 Time: 12528
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 688 Time: 12522
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 689 Time: 14022
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 690 Time: 11897
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 691 Time: 11088
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 692 Time: 11226
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 693 Time: 11041
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 694 Time: 10948
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 695 Time: 11215
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 696 Time: 11379
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 697 Time: 10818
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 698 Time: 11452
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 699 Time: 11359
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 700 Time: 10093
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 701 Time: 10180
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 702 Time: 9999
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 703 Time: 10674
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 704 Time: 11776
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 705 Time: 11018
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 706 Time: 11416
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 707 Time: 12171
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 708 Time: 16571
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 709 Time: 14102
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 710 Time: 11636
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 711 Time: 14810
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 712 Time: 16588
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 713 Time: 12111
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 714 Time: 13196
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 715 Time: 12291
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 716 Time: 11566
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 717 Time: 12225
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 718 Time: 10680
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 719 Time: 9855
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 720 Time: 11619
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 721 Time: 10801
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 722 Time: 10845
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 723 Time: 11643
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 724 Time: 21261
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 725 Time: 10811
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 726 Time: 11068
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 727 Time: 20266
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 728 Time: 9966
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 729 Time: 11784
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 730 Time: 13160
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 731 Time: 12862
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 732 Time: 14924
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 733 Time: 10307
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 734 Time: 10935
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 735 Time: 10928
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 736 Time: 10521
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 737 Time: 10317
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 738 Time: 11443
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 739 Time: 12381
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 740 Time: 17703
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 741 Time: 12418
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 742 Time: 11015
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 743 Time: 11727
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 744 Time: 11276
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 745 Time: 12184
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 746 Time: 12836
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 747 Time: 13187
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 748 Time: 11396
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 749 Time: 11653
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 750 Time: 11409
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 751 Time: 12228
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 752 Time: 10644
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 753 Time: 11145
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 754 Time: 11547
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 755 Time: 10901
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 756 Time: 10781
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 757 Time: 11937
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 758 Time: 12281
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 759 Time: 11125
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 760 Time: 15916
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 761 Time: 11299
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 762 Time: 10938
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 763 Time: 19100
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 764 Time: 13521
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 765 Time: 11717
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 766 Time: 12334
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 767 Time: 11560
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 768 Time: 27379
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 769 Time: 22611
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 770 Time: 30025
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 771 Time: 23016
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 772 Time: 11910
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 773 Time: 11509
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 774 Time: 19408
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 775 Time: 12188
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 776 Time: 10821
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 777 Time: 10510
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 778 Time: 10644
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 779 Time: 10454
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 780 Time: 10394
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 781 Time: 10774
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 782 Time: 21037
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 783 Time: 11670
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 784 Time: 25061
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 785 Time: 27816
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 786 Time: 14359
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 787 Time: 19812
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 788 Time: 26724
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 789 Time: 14439
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 790 Time: 10721
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 791 Time: 10531
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 792 Time: 11322
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 793 Time: 25514
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 794 Time: 20423
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 795 Time: 19103
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 796 Time: 149235
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 797 Time: 17463
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 798 Time: 15462
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 799 Time: 12365
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 800 Time: 12412
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 801 Time: 12372
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 802 Time: 10975
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 803 Time: 11877
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 804 Time: 17146
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 805 Time: 10902
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 806 Time: 10641
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 807 Time: 10894
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 808 Time: 10831
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 809 Time: 10363
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 810 Time: 9906
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 811 Time: 11694
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 812 Time: 11062
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 813 Time: 12044
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 814 Time: 11840
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 815 Time: 11593
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 816 Time: 10269
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 817 Time: 11289
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 818 Time: 11232
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 819 Time: 11329
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 820 Time: 11489
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 821 Time: 11285
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 822 Time: 11035
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 823 Time: 11255
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 824 Time: 26453
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 825 Time: 11319
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 826 Time: 10460
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 827 Time: 11002
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 828 Time: 11048
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 829 Time: 10995
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 830 Time: 11329
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 831 Time: 11222
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 832 Time: 11977
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 833 Time: 11687
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 834 Time: 12111
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 835 Time: 10330
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 836 Time: 11502
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 837 Time: 11466
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 838 Time: 11787
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 839 Time: 11249
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 840 Time: 10032
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 841 Time: 10113
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 842 Time: 9969
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 843 Time: 9775
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 844 Time: 11499
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 845 Time: 11616
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 846 Time: 10865
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 847 Time: 11115
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 848 Time: 11028
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 849 Time: 11513
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 850 Time: 11059
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 851 Time: 10949
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 852 Time: 10170
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 853 Time: 9866
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 854 Time: 9956
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 855 Time: 10981
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 856 Time: 10972
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 857 Time: 11626
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 858 Time: 10376
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 859 Time: 11569
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 860 Time: 10744
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 861 Time: 10655
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 862 Time: 9742
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 863 Time: 10234
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 864 Time: 11166
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 865 Time: 11032
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 866 Time: 11349
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 867 Time: 11102
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 868 Time: 10400
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 869 Time: 19905
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 870 Time: 12235
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 871 Time: 10042
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 872 Time: 44485
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 873 Time: 10413
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 874 Time: 11309
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 875 Time: 11062
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 876 Time: 10842
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 877 Time: 11640
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 878 Time: 11168
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 879 Time: 11166
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 880 Time: 11025
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 881 Time: 10086
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 882 Time: 10714
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 883 Time: 10587
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 884 Time: 11025
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 885 Time: 10952
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 886 Time: 10274
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 887 Time: 10594
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 888 Time: 9835
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 889 Time: 11366
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 890 Time: 11299
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 891 Time: 10925
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 892 Time: 10648
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 893 Time: 11082
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 894 Time: 11258
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 895 Time: 11049
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 896 Time: 21525
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 897 Time: 11042
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 898 Time: 11610
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 899 Time: 10574
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 900 Time: 12197
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 901 Time: 10494
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 902 Time: 10140
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 903 Time: 11199
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 904 Time: 10725
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 905 Time: 11315
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 906 Time: 10721
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 907 Time: 9925
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 908 Time: 16214
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 909 Time: 17760
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 910 Time: 12542
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 911 Time: 12703
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 912 Time: 11372
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 913 Time: 11560
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 914 Time: 11386
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 915 Time: 11326
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 916 Time: 11539
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 917 Time: 10914
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 918 Time: 11416
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 919 Time: 11039
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 920 Time: 10661
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 921 Time: 20747
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 922 Time: 10898
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 923 Time: 10089
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 924 Time: 19120
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 925 Time: 10269
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 926 Time: 9762
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 927 Time: 20286
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 928 Time: 11099
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 929 Time: 11259
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 930 Time: 20182
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 931 Time: 10246
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 932 Time: 16096
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 933 Time: 22371
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 934 Time: 18234
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 935 Time: 12184
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 936 Time: 16521
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 937 Time: 15882
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 938 Time: 11496
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 939 Time: 12385
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 940 Time: 10681
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 941 Time: 10825
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 942 Time: 11068
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 943 Time: 10684
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 944 Time: 11854
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 945 Time: 10380
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 946 Time: 10049
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 947 Time: 10112
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 948 Time: 11720
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 949 Time: 11332
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 950 Time: 11316
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 951 Time: 10150
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 952 Time: 10413
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 953 Time: 10748
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 954 Time: 10724
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 955 Time: 9872
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 956 Time: 9789
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 957 Time: 11303
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 958 Time: 10387
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 959 Time: 11536
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 960 Time: 10213
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 961 Time: 10039
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 962 Time: 10250
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 963 Time: 108379
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 964 Time: 10374
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 965 Time: 21346
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 966 Time: 9849
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 967 Time: 11286
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 968 Time: 45727
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 969 Time: 11279
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 970 Time: 10370
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 971 Time: 20553
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 972 Time: 9906
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 973 Time: 9632
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 974 Time: 19153
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 975 Time: 9930
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 976 Time: 9602
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 977 Time: 10520
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 978 Time: 10280
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 979 Time: 10868
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 980 Time: 10581
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 981 Time: 10160
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 982 Time: 11596
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 983 Time: 11296
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 984 Time: 11459
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 985 Time: 10908
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 986 Time: 11593
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 987 Time: 10828
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 988 Time: 10320
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 989 Time: 10925
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 990 Time: 11055
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 991 Time: 11426
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 992 Time: 10755
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 993 Time: 10828
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 994 Time: 10394
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 995 Time: 9822
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 996 Time: 16835
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 997 Time: 10113
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 998 Time: 9926
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 999 Time: 9662
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 1000 Time: 10156
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: ArrayList: Add Total Count - 1000
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: ArrayList: Add Total Time - 21221092
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: ArrayList: Add Median Time - 21221
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 1 Time: 1704587
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 2 Time: 21943
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 3 Time: 17714
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 4 Time: 43499
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 5 Time: 16992
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 6 Time: 19931
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 7 Time: 18556
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 8 Time: 17079
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 9 Time: 20176
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 10 Time: 19057
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 11 Time: 425801
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 12 Time: 18425
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 13 Time: 17980
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 14 Time: 15749
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 15 Time: 17680
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 16 Time: 16591
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 17 Time: 16304
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 18 Time: 15806
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 19 Time: 16494
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 20 Time: 17005
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 21 Time: 15789
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 22 Time: 17399
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 23 Time: 18284
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 24 Time: 16628
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 25 Time: 16932
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 26 Time: 16678
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 27 Time: 16902
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 28 Time: 17235
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 29 Time: 18595
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 30 Time: 18602
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 31 Time: 18649
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 32 Time: 17523
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 33 Time: 17730
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 34 Time: 16003
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 35 Time: 17099
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 36 Time: 17754
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 37 Time: 16825
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 38 Time: 17773
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 39 Time: 17456
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 40 Time: 17867
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 41 Time: 18749
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 42 Time: 17583
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 43 Time: 17362
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 44 Time: 16438
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 45 Time: 18428
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 46 Time: 18248
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 47 Time: 17212
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 48 Time: 16608
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 49 Time: 16441
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 50 Time: 39623
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 51 Time: 24830
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 52 Time: 20733
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 53 Time: 17951
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 54 Time: 18101
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 55 Time: 18085
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 56 Time: 18358
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 57 Time: 16828
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 58 Time: 16751
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 59 Time: 18746
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 60 Time: 17944
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 61 Time: 18321
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 62 Time: 17707
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 63 Time: 17637
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 64 Time: 434969
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 65 Time: 17430
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 66 Time: 16170
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 67 Time: 20253
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 68 Time: 16945
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 69 Time: 17463
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 70 Time: 15488
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 71 Time: 15352
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 72 Time: 16591
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 73 Time: 16404
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 74 Time: 16387
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 75 Time: 16197
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 76 Time: 16648
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 77 Time: 16364
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 78 Time: 16708
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 79 Time: 16284
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 80 Time: 16180
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 81 Time: 25274
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 82 Time: 16521
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 83 Time: 16377
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 84 Time: 17447
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 85 Time: 16304
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 86 Time: 16080
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 87 Time: 16050
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 88 Time: 15656
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 89 Time: 17636
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 90 Time: 16046
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 91 Time: 15548
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 92 Time: 15843
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 93 Time: 17366
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 94 Time: 16257
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 95 Time: 16087
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 96 Time: 16791
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 97 Time: 16508
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 98 Time: 16611
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 99 Time: 15595
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: remove.ID = 100 Time: 14854
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: ArrayList: Remove Total Count - 100
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: ArrayList: Remove Total Time - 4300460
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: ArrayList: Remove Median Time - 43004
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: **LinkedList test started**Mon Nov 29 17:48:54 MSK 2021
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 1 Time: 43291
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 2 Time: 13705
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 3 Time: 13872
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 4 Time: 13484
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 5 Time: 12735
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 6 Time: 12505
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 7 Time: 12609
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 8 Time: 12843
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 9 Time: 12625
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 10 Time: 12642
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 11 Time: 12469
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 12 Time: 12098
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 13 Time: 11993
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 14 Time: 13959
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 15 Time: 14503
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 16 Time: 13674
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 17 Time: 12776
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 18 Time: 13517
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 19 Time: 13581
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 20 Time: 12214
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 21 Time: 23159
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 22 Time: 13427
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 23 Time: 13861
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 24 Time: 1829647
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 25 Time: 12655
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 26 Time: 11640
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 27 Time: 10430
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 28 Time: 9649
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 29 Time: 9849
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 30 Time: 9705
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 31 Time: 9859
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 32 Time: 9211
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 33 Time: 9706
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 34 Time: 9541
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 35 Time: 10611
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 36 Time: 10852
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 37 Time: 10557
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 38 Time: 9692
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 39 Time: 10076
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 40 Time: 10130
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 41 Time: 9655
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 42 Time: 9277
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 43 Time: 9154
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 44 Time: 9508
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 45 Time: 9345
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 46 Time: 9234
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 47 Time: 10350
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 48 Time: 9265
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 49 Time: 9285
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 50 Time: 9999
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 51 Time: 10480
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 52 Time: 9676
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 53 Time: 9689
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 54 Time: 9432
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 55 Time: 9628
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 56 Time: 10049
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 57 Time: 9886
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 58 Time: 19384
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 59 Time: 9789
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 60 Time: 10032
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 61 Time: 19384
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 62 Time: 9267
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 63 Time: 9121
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 64 Time: 9798
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 65 Time: 9154
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 66 Time: 9609
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 67 Time: 9435
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 68 Time: 9351
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 69 Time: 10464
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 70 Time: 9498
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 71 Time: 10270
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 72 Time: 9815
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 73 Time: 9070
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 74 Time: 9227
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 75 Time: 10149
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 76 Time: 9568
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 77 Time: 9231
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 78 Time: 9615
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 79 Time: 9963
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 80 Time: 19341
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 81 Time: 9068
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 82 Time: 9962
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 83 Time: 10233
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 84 Time: 10604
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 85 Time: 10050
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 86 Time: 9638
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 87 Time: 10157
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 88 Time: 9799
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 89 Time: 10169
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 90 Time: 9609
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 91 Time: 10420
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 92 Time: 10400
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 93 Time: 10371
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 94 Time: 10227
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 95 Time: 10109
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 96 Time: 10193
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 97 Time: 10093
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 98 Time: 11322
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 99 Time: 10113
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 100 Time: 10370
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 101 Time: 10450
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 102 Time: 9618
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 103 Time: 10537
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 104 Time: 10951
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 105 Time: 10077
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 106 Time: 10698
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 107 Time: 10029
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 108 Time: 9175
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 109 Time: 9722
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 110 Time: 10701
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 111 Time: 11129
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 112 Time: 10564
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 113 Time: 10651
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 114 Time: 9819
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 115 Time: 10290
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 116 Time: 9345
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 117 Time: 19859
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 118 Time: 10110
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 119 Time: 10334
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 120 Time: 10200
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 121 Time: 9682
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 122 Time: 9562
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 123 Time: 9639
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 124 Time: 9682
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 125 Time: 19678
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 126 Time: 9588
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 127 Time: 9301
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 128 Time: 10022
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 129 Time: 9338
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 130 Time: 9311
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 131 Time: 9725
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 132 Time: 10220
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 133 Time: 10047
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 134 Time: 9495
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 135 Time: 9415
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 136 Time: 9645
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 137 Time: 9632
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 138 Time: 9519
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 139 Time: 9318
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 140 Time: 9084
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 141 Time: 9161
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 142 Time: 9792
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 143 Time: 9765
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 144 Time: 9752
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 145 Time: 9742
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 146 Time: 9515
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 147 Time: 9899
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 148 Time: 10099
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 149 Time: 9435
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 150 Time: 9474
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 151 Time: 9144
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 152 Time: 9445
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 153 Time: 9946
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 154 Time: 9188
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 155 Time: 10113
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 156 Time: 9933
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 157 Time: 9792
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 158 Time: 9615
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 159 Time: 9686
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 160 Time: 9391
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 161 Time: 9144
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 162 Time: 9458
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 163 Time: 9716
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 164 Time: 9445
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 165 Time: 9902
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 166 Time: 9802
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 167 Time: 9043
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 168 Time: 10207
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 169 Time: 9826
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 170 Time: 9672
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 171 Time: 10360
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 172 Time: 10354
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 173 Time: 12422
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 174 Time: 10447
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 175 Time: 9692
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 176 Time: 9492
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 177 Time: 18315
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 178 Time: 9241
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 179 Time: 10056
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 180 Time: 18385
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 181 Time: 9104
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 182 Time: 9606
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 183 Time: 13103
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 184 Time: 9444
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 185 Time: 9606
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 186 Time: 10183
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 187 Time: 10257
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 188 Time: 9695
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 189 Time: 9759
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 190 Time: 9935
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 191 Time: 9432
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 192 Time: 10133
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 193 Time: 9595
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 194 Time: 9581
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 195 Time: 9662
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 196 Time: 9504
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 197 Time: 9986
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 198 Time: 9374
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 199 Time: 9682
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 200 Time: 9445
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 201 Time: 9468
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 202 Time: 9886
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 203 Time: 9211
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 204 Time: 9455
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 205 Time: 10040
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 206 Time: 9625
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 207 Time: 9324
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 208 Time: 9785
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 209 Time: 10433
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 210 Time: 9842
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 211 Time: 9802
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 212 Time: 10791
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 213 Time: 9869
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 214 Time: 18740
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 215 Time: 9648
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 216 Time: 10243
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 217 Time: 25207
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 218 Time: 10043
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 219 Time: 10216
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 220 Time: 9979
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 221 Time: 9849
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 222 Time: 9491
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 223 Time: 9275
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 224 Time: 8730
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 225 Time: 9942
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 226 Time: 8994
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 227 Time: 9676
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 228 Time: 10498
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 229 Time: 10203
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 230 Time: 10264
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 231 Time: 9361
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 232 Time: 9779
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 233 Time: 9595
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 234 Time: 15060
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 235 Time: 9749
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 236 Time: 19831
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 237 Time: 9451
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 238 Time: 9187
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 239 Time: 22902
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 240 Time: 9314
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 241 Time: 9124
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 242 Time: 9448
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 243 Time: 9552
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 244 Time: 9859
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 245 Time: 9699
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 246 Time: 9294
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 247 Time: 9575
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 248 Time: 9398
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 249 Time: 9682
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 250 Time: 9795
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 251 Time: 9458
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 252 Time: 9191
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 253 Time: 50758
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 254 Time: 10080
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 255 Time: 43663
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 256 Time: 9588
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 257 Time: 9512
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 258 Time: 15345
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 259 Time: 6869
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 260 Time: 6147
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 261 Time: 6167
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 262 Time: 6274
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 263 Time: 5807
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 264 Time: 6147
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 265 Time: 5729
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 266 Time: 6057
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 267 Time: 6274
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 268 Time: 5833
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 269 Time: 5920
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 270 Time: 5890
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 271 Time: 6104
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 272 Time: 6435
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 273 Time: 15325
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 274 Time: 6575
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 275 Time: 6508
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 276 Time: 6412
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 277 Time: 6555
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 278 Time: 6515
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 279 Time: 5991
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 280 Time: 6301
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 281 Time: 6488
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 282 Time: 6174
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 283 Time: 6431
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 284 Time: 5920
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 285 Time: 6230
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 286 Time: 5809
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 287 Time: 6250
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 288 Time: 6161
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 289 Time: 6404
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 290 Time: 5974
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 291 Time: 6552
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 292 Time: 5953
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 293 Time: 5753
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 294 Time: 6077
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 295 Time: 5716
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 296 Time: 6394
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 297 Time: 5981
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 298 Time: 6281
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 299 Time: 6314
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 300 Time: 6288
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 301 Time: 6211
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 302 Time: 6217
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 303 Time: 6311
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 304 Time: 6589
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 305 Time: 6164
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 306 Time: 6829
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 307 Time: 7414
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 308 Time: 6474
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 309 Time: 6014
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 310 Time: 6735
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 311 Time: 5993
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 312 Time: 6134
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 313 Time: 6130
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 314 Time: 5826
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 315 Time: 6444
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 316 Time: 9124
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 317 Time: 6458
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 318 Time: 5854
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 319 Time: 6224
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 320 Time: 5827
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 321 Time: 13216
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 322 Time: 7443
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 323 Time: 6271
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 324 Time: 6628
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 325 Time: 6348
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 326 Time: 6154
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 327 Time: 6318
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 328 Time: 6197
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 329 Time: 6318
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 330 Time: 6174
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 331 Time: 6200
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 332 Time: 6111
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 333 Time: 6345
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 334 Time: 5966
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 335 Time: 6324
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 336 Time: 15104
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 337 Time: 6197
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 338 Time: 5907
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 339 Time: 6495
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 340 Time: 6391
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 341 Time: 6258
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 342 Time: 6148
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 343 Time: 6531
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 344 Time: 6575
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 345 Time: 15242
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 346 Time: 7614
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 347 Time: 9585
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 348 Time: 6574
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 349 Time: 7698
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 350 Time: 6822
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 351 Time: 6642
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 352 Time: 6615
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 353 Time: 6184
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 354 Time: 6128
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 355 Time: 6671
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 356 Time: 6244
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 357 Time: 6401
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 358 Time: 6391
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 359 Time: 6057
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 360 Time: 5954
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 361 Time: 6234
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 362 Time: 5986
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 363 Time: 7012
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 364 Time: 6144
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 365 Time: 6765
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 366 Time: 6454
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 367 Time: 6535
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 368 Time: 13712
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 369 Time: 6798
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 370 Time: 14730
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 371 Time: 7574
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 372 Time: 7507
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 373 Time: 16364
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 374 Time: 26062
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 375 Time: 6675
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 376 Time: 7487
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 377 Time: 6812
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 378 Time: 6849
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 379 Time: 6471
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 380 Time: 7684
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 381 Time: 6004
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 382 Time: 6832
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 383 Time: 7016
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 384 Time: 6591
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 385 Time: 6816
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 386 Time: 6247
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 387 Time: 6551
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 388 Time: 6057
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 389 Time: 5856
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 390 Time: 6929
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 391 Time: 6411
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 392 Time: 16310
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 393 Time: 6662
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 394 Time: 6365
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 395 Time: 6161
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 396 Time: 6154
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 397 Time: 6043
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 398 Time: 6815
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 399 Time: 6104
+Nov 29, 2021 5:48:54 PM utils.CollectionTests startTest
+INFO: add.ID = 400 Time: 11670
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 401 Time: 6829
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 402 Time: 6572
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 403 Time: 6632
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 404 Time: 6220
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 405 Time: 6886
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 406 Time: 6368
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 407 Time: 6982
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 408 Time: 6822
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 409 Time: 7046
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 410 Time: 6010
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 411 Time: 6153
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 412 Time: 6171
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 413 Time: 6354
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 414 Time: 6043
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 415 Time: 5920
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 416 Time: 6328
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 417 Time: 6435
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 418 Time: 6191
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 419 Time: 6451
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 420 Time: 6501
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 421 Time: 16177
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 422 Time: 7350
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 423 Time: 7059
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 424 Time: 7183
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 425 Time: 6812
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 426 Time: 8881
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 427 Time: 6608
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 428 Time: 7032
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 429 Time: 15479
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 430 Time: 7003
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 431 Time: 7006
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 432 Time: 5924
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 433 Time: 5930
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 434 Time: 6224
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 435 Time: 5914
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 436 Time: 7046
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 437 Time: 5840
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 438 Time: 6562
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 439 Time: 6284
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 440 Time: 6438
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 441 Time: 6538
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 442 Time: 5863
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 443 Time: 6534
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 444 Time: 6531
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 445 Time: 6578
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 446 Time: 6408
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 447 Time: 6482
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 448 Time: 5796
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 449 Time: 6605
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 450 Time: 6071
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 451 Time: 6231
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 452 Time: 6217
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 453 Time: 5840
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 454 Time: 5806
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 455 Time: 5973
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 456 Time: 5790
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 457 Time: 6090
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 458 Time: 5984
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 459 Time: 6672
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 460 Time: 7370
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 461 Time: 7183
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 462 Time: 6454
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 463 Time: 6251
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 464 Time: 6498
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 465 Time: 5776
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 466 Time: 5974
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 467 Time: 6756
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 468 Time: 6458
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 469 Time: 6178
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 470 Time: 6441
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 471 Time: 7083
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 472 Time: 6488
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 473 Time: 6268
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 474 Time: 6605
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 475 Time: 6354
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 476 Time: 6124
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 477 Time: 6314
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 478 Time: 6261
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 479 Time: 6291
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 480 Time: 6171
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 481 Time: 6308
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 482 Time: 6412
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 483 Time: 6448
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 484 Time: 6591
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 485 Time: 6157
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 486 Time: 6211
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 487 Time: 6716
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 488 Time: 7257
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 489 Time: 16087
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 490 Time: 16895
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 491 Time: 6949
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 492 Time: 16899
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 493 Time: 7460
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 494 Time: 7534
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 495 Time: 13645
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 496 Time: 6465
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 497 Time: 8409
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 498 Time: 7266
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 499 Time: 7056
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 500 Time: 7627
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 501 Time: 7500
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 502 Time: 6732
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 503 Time: 6602
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 504 Time: 6408
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 505 Time: 6809
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 506 Time: 6588
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 507 Time: 6494
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 508 Time: 7190
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 509 Time: 6435
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 510 Time: 6524
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 511 Time: 6441
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 512 Time: 12993
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 513 Time: 6458
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 514 Time: 5950
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 515 Time: 6171
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 516 Time: 6050
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 517 Time: 6515
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 518 Time: 6101
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 519 Time: 6906
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 520 Time: 6214
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 521 Time: 6110
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 522 Time: 6181
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 523 Time: 6211
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 524 Time: 6886
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 525 Time: 7123
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 526 Time: 15127
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 527 Time: 6431
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 528 Time: 5890
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 529 Time: 15449
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 530 Time: 6254
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 531 Time: 6364
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 532 Time: 6237
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 533 Time: 6274
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 534 Time: 6204
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 535 Time: 6501
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 536 Time: 6498
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 537 Time: 6478
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 538 Time: 6705
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 539 Time: 6087
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 540 Time: 6147
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 541 Time: 5867
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 542 Time: 6054
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 543 Time: 7159
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 544 Time: 6448
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 545 Time: 21215
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 546 Time: 6883
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 547 Time: 6778
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 548 Time: 15392
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 549 Time: 6785
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 550 Time: 6665
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 551 Time: 7083
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 552 Time: 6705
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 553 Time: 6756
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 554 Time: 6184
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 555 Time: 6529
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 556 Time: 6391
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 557 Time: 6815
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 558 Time: 6539
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 559 Time: 7269
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 560 Time: 6672
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 561 Time: 6555
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 562 Time: 6651
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 563 Time: 6335
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 564 Time: 6489
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 565 Time: 6422
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 566 Time: 6665
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 567 Time: 6829
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 568 Time: 6304
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 569 Time: 6248
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 570 Time: 6582
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 571 Time: 6562
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 572 Time: 6588
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 573 Time: 6294
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 574 Time: 6121
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 575 Time: 5860
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 576 Time: 6221
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 577 Time: 6972
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 578 Time: 6983
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 579 Time: 6024
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 580 Time: 6839
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 581 Time: 6265
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 582 Time: 14650
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 583 Time: 5757
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 584 Time: 5924
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 585 Time: 15195
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 586 Time: 6675
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 587 Time: 6248
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 588 Time: 6254
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 589 Time: 5973
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 590 Time: 6384
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 591 Time: 6040
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 592 Time: 6441
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 593 Time: 6799
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 594 Time: 6278
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 595 Time: 5990
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 596 Time: 6658
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 597 Time: 6528
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 598 Time: 6822
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 599 Time: 6134
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 600 Time: 6140
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 601 Time: 6137
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 602 Time: 6442
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 603 Time: 5810
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 604 Time: 15164
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 605 Time: 6210
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 606 Time: 6094
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 607 Time: 6411
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 608 Time: 6181
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 609 Time: 6448
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 610 Time: 6227
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 611 Time: 14680
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 612 Time: 5900
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 613 Time: 6084
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 614 Time: 6087
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 615 Time: 6164
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 616 Time: 5890
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 617 Time: 6104
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 618 Time: 5784
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 619 Time: 5977
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 620 Time: 6067
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 621 Time: 5947
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 622 Time: 6037
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 623 Time: 6331
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 624 Time: 6121
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 625 Time: 6188
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 626 Time: 6291
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 627 Time: 6518
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 628 Time: 6247
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 629 Time: 6197
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 630 Time: 6495
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 631 Time: 6237
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 632 Time: 6415
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 633 Time: 5763
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 634 Time: 6424
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 635 Time: 6428
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 636 Time: 6899
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 637 Time: 6148
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 638 Time: 6230
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 639 Time: 6414
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 640 Time: 6551
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 641 Time: 6321
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 642 Time: 7149
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 643 Time: 6619
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 644 Time: 6485
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 645 Time: 15178
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 646 Time: 6615
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 647 Time: 6267
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 648 Time: 14860
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 649 Time: 6545
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 650 Time: 6344
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 651 Time: 6277
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 652 Time: 6976
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 653 Time: 6260
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 654 Time: 6438
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 655 Time: 6271
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 656 Time: 6407
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 657 Time: 6074
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 658 Time: 6264
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 659 Time: 5843
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 660 Time: 5756
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 661 Time: 5639
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 662 Time: 6451
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 663 Time: 5599
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 664 Time: 5719
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 665 Time: 6234
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 666 Time: 6178
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 667 Time: 6418
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 668 Time: 5853
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 669 Time: 6341
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 670 Time: 6214
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 671 Time: 6201
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 672 Time: 6047
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 673 Time: 6247
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 674 Time: 6117
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 675 Time: 6424
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 676 Time: 6221
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 677 Time: 6247
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 678 Time: 6341
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 679 Time: 5920
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 680 Time: 6030
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 681 Time: 5757
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 682 Time: 15154
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 683 Time: 5970
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 684 Time: 5893
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 685 Time: 6421
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 686 Time: 5783
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 687 Time: 6474
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 688 Time: 6559
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 689 Time: 6358
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 690 Time: 5970
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 691 Time: 6478
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 692 Time: 5786
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 693 Time: 6014
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 694 Time: 6214
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 695 Time: 6478
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 696 Time: 6695
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 697 Time: 7299
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 698 Time: 6318
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 699 Time: 6462
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 700 Time: 6732
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 701 Time: 6484
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 702 Time: 6321
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 703 Time: 6040
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 704 Time: 14887
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 705 Time: 6190
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 706 Time: 6111
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 707 Time: 6625
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 708 Time: 6284
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 709 Time: 6000
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 710 Time: 6067
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 711 Time: 6364
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 712 Time: 6160
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 713 Time: 6050
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 714 Time: 6374
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 715 Time: 6325
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 716 Time: 6435
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 717 Time: 6581
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 718 Time: 6464
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 719 Time: 6534
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 720 Time: 6114
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 721 Time: 6124
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 722 Time: 6518
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 723 Time: 6104
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 724 Time: 6314
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 725 Time: 6204
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 726 Time: 6478
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 727 Time: 6405
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 728 Time: 6107
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 729 Time: 13086
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 730 Time: 6338
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 731 Time: 6398
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 732 Time: 6411
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 733 Time: 6371
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 734 Time: 7029
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 735 Time: 6688
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 736 Time: 6545
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 737 Time: 6134
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 738 Time: 6414
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 739 Time: 6247
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 740 Time: 6444
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 741 Time: 15756
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 742 Time: 6124
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 743 Time: 6248
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 744 Time: 6161
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 745 Time: 6087
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 746 Time: 12642
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 747 Time: 6248
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 748 Time: 6572
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 749 Time: 6093
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 750 Time: 6248
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 751 Time: 11881
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 752 Time: 6512
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 753 Time: 6027
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 754 Time: 6030
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 755 Time: 5937
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 756 Time: 14831
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 757 Time: 6421
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 758 Time: 6244
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 759 Time: 6184
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 760 Time: 15325
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 761 Time: 6611
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 762 Time: 6569
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 763 Time: 6324
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 764 Time: 14627
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 765 Time: 6154
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 766 Time: 6592
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 767 Time: 6147
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 768 Time: 6615
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 769 Time: 6983
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 770 Time: 6782
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 771 Time: 6274
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 772 Time: 6755
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 773 Time: 6745
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 774 Time: 6468
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 775 Time: 6194
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 776 Time: 6325
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 777 Time: 6307
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 778 Time: 6321
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 779 Time: 6572
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 780 Time: 6291
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 781 Time: 6197
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 782 Time: 6559
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 783 Time: 7223
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 784 Time: 6805
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 785 Time: 6274
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 786 Time: 5937
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 787 Time: 7070
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 788 Time: 6816
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 789 Time: 6652
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 790 Time: 6952
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 791 Time: 6749
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 792 Time: 6501
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 793 Time: 6501
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 794 Time: 6665
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 795 Time: 6572
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 796 Time: 7086
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 797 Time: 7360
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 798 Time: 16397
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 799 Time: 6147
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 800 Time: 6705
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 801 Time: 28542
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 802 Time: 7200
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 803 Time: 7072
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 804 Time: 6976
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 805 Time: 6395
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 806 Time: 6778
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 807 Time: 7403
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 808 Time: 7751
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 809 Time: 7280
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 810 Time: 6595
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 811 Time: 6809
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 812 Time: 7173
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 813 Time: 6595
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 814 Time: 6184
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 815 Time: 6842
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 816 Time: 6915
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 817 Time: 6220
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 818 Time: 6518
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 819 Time: 6207
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 820 Time: 13250
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 821 Time: 5990
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 822 Time: 6852
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 823 Time: 22427
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 824 Time: 6605
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 825 Time: 6678
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 826 Time: 6224
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 827 Time: 6876
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 828 Time: 6117
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 829 Time: 6271
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 830 Time: 6585
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 831 Time: 7190
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 832 Time: 6525
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 833 Time: 7062
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 834 Time: 5890
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 835 Time: 15578
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 836 Time: 6752
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 837 Time: 6595
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 838 Time: 6819
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 839 Time: 6047
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 840 Time: 6845
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 841 Time: 6489
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 842 Time: 6247
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 843 Time: 6211
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 844 Time: 6444
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 845 Time: 6314
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 846 Time: 6144
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 847 Time: 6335
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 848 Time: 5857
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 849 Time: 6853
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 850 Time: 6221
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 851 Time: 6441
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 852 Time: 6368
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 853 Time: 6762
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 854 Time: 6916
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 855 Time: 6257
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 856 Time: 6124
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 857 Time: 15625
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 858 Time: 6769
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 859 Time: 6452
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 860 Time: 6174
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 861 Time: 6237
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 862 Time: 6802
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 863 Time: 6304
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 864 Time: 6534
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 865 Time: 6521
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 866 Time: 6765
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 867 Time: 6868
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 868 Time: 6294
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 869 Time: 6044
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 870 Time: 6642
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 871 Time: 6294
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 872 Time: 6672
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 873 Time: 6712
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 874 Time: 6435
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 875 Time: 6655
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 876 Time: 6261
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 877 Time: 6813
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 878 Time: 8075
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 879 Time: 6789
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 880 Time: 14256
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 881 Time: 6033
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 882 Time: 6321
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 883 Time: 6364
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 884 Time: 6558
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 885 Time: 6461
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 886 Time: 6558
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 887 Time: 6124
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 888 Time: 6244
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 889 Time: 6354
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 890 Time: 5863
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 891 Time: 6682
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 892 Time: 6184
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 893 Time: 6305
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 894 Time: 14723
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 895 Time: 5854
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 896 Time: 6257
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 897 Time: 6194
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 898 Time: 5720
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 899 Time: 5740
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 900 Time: 6418
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 901 Time: 6528
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 902 Time: 5696
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 903 Time: 6475
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 904 Time: 5953
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 905 Time: 6511
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 906 Time: 6197
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 907 Time: 5987
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 908 Time: 6194
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 909 Time: 6826
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 910 Time: 6979
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 911 Time: 5890
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 912 Time: 5850
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 913 Time: 14536
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 914 Time: 6011
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 915 Time: 8513
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 916 Time: 6929
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 917 Time: 32687
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 918 Time: 6649
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 919 Time: 6421
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 920 Time: 15855
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 921 Time: 6003
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 922 Time: 6635
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 923 Time: 6144
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 924 Time: 6358
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 925 Time: 6204
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 926 Time: 6822
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 927 Time: 6111
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 928 Time: 5874
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 929 Time: 6521
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 930 Time: 6227
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 931 Time: 6659
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 932 Time: 6578
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 933 Time: 6578
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 934 Time: 6504
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 935 Time: 6602
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 936 Time: 6114
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 937 Time: 6187
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 938 Time: 6111
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 939 Time: 6475
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 940 Time: 6799
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 941 Time: 7026
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 942 Time: 7016
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 943 Time: 6755
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 944 Time: 6351
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 945 Time: 5884
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 946 Time: 6405
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 947 Time: 6211
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 948 Time: 17958
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 949 Time: 6475
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 950 Time: 7243
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 951 Time: 6995
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 952 Time: 6762
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 953 Time: 6939
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 954 Time: 6922
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 955 Time: 6504
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 956 Time: 6140
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 957 Time: 6314
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 958 Time: 6308
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 959 Time: 6445
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 960 Time: 6672
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 961 Time: 6946
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 962 Time: 6422
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 963 Time: 6371
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 964 Time: 6472
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 965 Time: 6945
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 966 Time: 6227
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 967 Time: 6481
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 968 Time: 6825
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 969 Time: 6324
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 970 Time: 6949
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 971 Time: 7280
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 972 Time: 7099
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 973 Time: 6318
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 974 Time: 6134
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 975 Time: 6244
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 976 Time: 6611
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 977 Time: 7059
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 978 Time: 7146
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 979 Time: 6652
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 980 Time: 6060
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 981 Time: 6688
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 982 Time: 15498
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 983 Time: 6404
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 984 Time: 6000
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 985 Time: 15351
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 986 Time: 6438
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 987 Time: 6208
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 988 Time: 6077
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 989 Time: 5870
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 990 Time: 6054
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 991 Time: 6050
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 992 Time: 6050
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 993 Time: 6047
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 994 Time: 6708
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 995 Time: 6044
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 996 Time: 5974
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 997 Time: 6271
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 998 Time: 6806
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 999 Time: 6819
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: add.ID = 1000 Time: 6795
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: LinkedList: Add Total Count - 1000
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: LinkedList: Add Total Time - 9927849
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: LinkedList: Add Median Time - 9927
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 1 Time: 153648
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 2 Time: 103946
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 3 Time: 26580
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 4 Time: 99235
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 5 Time: 46976
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 6 Time: 31776
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 7 Time: 106989
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 8 Time: 41982
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 9 Time: 53582
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 10 Time: 62706
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 11 Time: 62167
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 12 Time: 58519
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 13 Time: 36877
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 14 Time: 65819
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 15 Time: 35751
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 16 Time: 25394
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 17 Time: 50036
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 18 Time: 70263
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 19 Time: 67894
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 20 Time: 69441
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 21 Time: 66995
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 22 Time: 25565
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 23 Time: 36473
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 24 Time: 31528
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 25 Time: 40241
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 26 Time: 70700
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 27 Time: 46194
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 28 Time: 1817433
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 29 Time: 39035
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 30 Time: 53875
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 31 Time: 73019
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 32 Time: 11750
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 33 Time: 46596
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 34 Time: 51193
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 35 Time: 31735
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 36 Time: 35457
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 37 Time: 58997
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 38 Time: 55863
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 39 Time: 30603
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 40 Time: 71936
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 41 Time: 40238
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 42 Time: 21342
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 43 Time: 47214
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 44 Time: 12054
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 45 Time: 19424
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 46 Time: 47661
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 47 Time: 32982
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 48 Time: 36225
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 49 Time: 22411
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 50 Time: 72133
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 51 Time: 33677
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 52 Time: 27903
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 53 Time: 46686
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 54 Time: 52606
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 55 Time: 64590
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 56 Time: 31147
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 57 Time: 51390
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 58 Time: 30489
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 59 Time: 38577
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 60 Time: 56023
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 61 Time: 10684
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 62 Time: 57627
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 63 Time: 22107
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 64 Time: 24255
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 65 Time: 11492
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 66 Time: 72354
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 67 Time: 68409
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 68 Time: 70316
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 69 Time: 28180
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 70 Time: 62612
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 71 Time: 76808
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 72 Time: 27098
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 73 Time: 51700
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 74 Time: 17068
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 75 Time: 17787
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 76 Time: 40585
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 77 Time: 25812
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 78 Time: 37291
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 79 Time: 57948
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 80 Time: 55362
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 81 Time: 55376
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 82 Time: 37719
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 83 Time: 48410
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 84 Time: 46927
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 85 Time: 61135
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 86 Time: 46973
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 87 Time: 65151
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 88 Time: 11713
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 89 Time: 31799
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 90 Time: 35457
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 91 Time: 23824
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 92 Time: 31238
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 93 Time: 52984
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 94 Time: 29962
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 95 Time: 20043
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 96 Time: 27899
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 97 Time: 89319
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 98 Time: 23700
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 99 Time: 79537
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: remove.ID = 100 Time: 980041
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: LinkedList: Remove Total Count - 100
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: LinkedList: Remove Total Time - 7384243
+Nov 29, 2021 5:48:55 PM utils.CollectionTests startTest
+INFO: LinkedList: Remove Median Time - 73842

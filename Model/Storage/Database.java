@@ -12,37 +12,24 @@ import Model.Aviary.*;
 
 public class Database extends Storage
 {
-    public static void saveData() 
+    public static void saveData() throws IOException
     {
-        try 
-        {
-            FileOutputStream out = new FileOutputStream(Path.of(filename).toFile());
-            ObjectOutputStream objOut = new ObjectOutputStream(out);
-            objOut.writeObject(listAviary);
-        } 
-        catch (IOException ex) 
-        {
-            System.out.println(ex.getMessage());
-        }
+        FileOutputStream out = new FileOutputStream(Path.of(filename).toFile());
+        ObjectOutputStream objOut = new ObjectOutputStream(out);
+        objOut.writeObject(listAviary);
     }
 
     @SuppressWarnings("unchecked")
-    public static void loadData() 
+    public static void loadData() throws ClassNotFoundException, IOException 
     {
         ArrayList<Aviary> loadListAviary = new ArrayList<Aviary>();
-        try 
-        {
-            FileInputStream in = new FileInputStream(Path.of(filename).toFile());
-            ObjectInputStream objIn = new ObjectInputStream(in);
-            loadListAviary = (ArrayList<Aviary>) objIn.readObject();
 
-            isLoaded = true;
-            Database.foldLists(loadListAviary);
-        } 
-        catch (IOException | ClassNotFoundException ex) 
-        {
-            System.out.println(ex.getMessage());
-        }
+        FileInputStream in = new FileInputStream(Path.of(filename).toFile());
+        ObjectInputStream objIn = new ObjectInputStream(in);
+        loadListAviary = (ArrayList<Aviary>) objIn.readObject();
+
+        isLoaded = true;
+        Database.foldLists(loadListAviary);
     }
 
     public static boolean getIsLoaded() 

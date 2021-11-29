@@ -1,11 +1,13 @@
 package Controller.Animals;
 
 import java.util.ArrayList;
+import java.util.logging.Level;
 
 import Controller.Common.*;
 import Model.Animals.Animals;
 import Model.Storage.*;
 import View.*;
+import utils.ForLogs;
 
 public class MoveAnimals 
 {
@@ -26,7 +28,16 @@ public class MoveAnimals
             int indexAnimal = SelectAnimal.run(list) - 1;
             int indexAviary = SelectAviary.run() - 1;
     
-            System.out.println(AnimalsStorage.moveAnimal(indexAnimal, indexAviary));
+            try
+            {
+                System.out.println(AnimalsStorage.moveAnimal(indexAnimal, indexAviary));
+                ForLogs.createLog(Level.INFO, "Move animal with index - " + indexAnimal + " in aviary with index - " + indexAviary);
+            }
+            catch(ClassCastException ex)
+            {
+                AnimalsView.showAnimalsMessage(3);
+                ForLogs.addErrWithLog(ex);
+            }
         }
     }
 }

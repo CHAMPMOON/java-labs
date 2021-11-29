@@ -1,9 +1,13 @@
-import Controller.AppController;
+import Controller.*;
+import Controller.Settings.SettingsController;
 
 public class Main 
 {
     public static void main(String[] args) 
     {
-        AppController.runApp();
+        if (SettingsController.run())
+        {
+            AppController.runApp();
+        }
     }
 }

@@ -3,6 +3,7 @@ package Controller.Common;
 import java.util.Scanner;
 
 import View.CommonView;
+import utils.ForLogs;
 
 public class EntryInt 
 {
@@ -26,6 +27,7 @@ public class EntryInt
             {
                 CommonView.clearScreen();
                 CommonView.showCommonMessage(1);
+                ForLogs.addErrWithLog(ex);
             }
         }
         return number;
